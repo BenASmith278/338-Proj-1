@@ -1,0 +1,3441 @@
+OPERATION: IPv6: ADDRCONF(NETDEV_UP): enp0s25: link is not ready
+ TIME: 7.882190999999999
+
+OPERATION: EXT4-fs (sda1): mounting ext2 file system using the ext4 subsystem
+ TIME: 5.1447569999999985
+
+OPERATION: shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+ TIME: 5.019692000000003
+
+OPERATION: Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+ TIME: 4.4628879999999995
+
+OPERATION: random: crng init done
+ TIME: 4.360356000000001
+
+OPERATION: systemd[1]: Set up automount Arbitrary Executable File Formats File System Automount Point.
+ TIME: 4.145446
+
+OPERATION: Adding 4087804k swap on /dev/mapper/56768--vg-swap_1.  Priority:-2 extents:1 across:4087804k FS
+ TIME: 3.804435000000005
+
+OPERATION: ip_tables: (C) 2000-2006 Netfilter Core Team
+ TIME: 2.822045000000001
+
+OPERATION: new mount options do not match the existing superblock, will be ignored
+ TIME: 2.085124999999998
+
+OPERATION: Bluetooth: Core ver 2.22
+ TIME: 1.8110520000000037
+
+OPERATION: audit: type=1400 audit(1676336625.780:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default" pid=910 comm="apparmor_parser"
+ TIME: 1.7481459999999984
+
+OPERATION: Freeing initrd memory: 60072K
+ TIME: 1.090495
+
+OPERATION: EXT4-fs (dm-0): re-mounted. Opts: errors=remount-ro
+ TIME: 0.9381559999999993
+
+OPERATION: systemd-journald[428]: File /var/log/journal/84989f9f53e04ef118390dbc577de48e/system.journal corrupted or uncleanly shut down, renaming and replacing.
+ TIME: 0.6245440000000002
+
+OPERATION: iscsi: registered transport (iser)
+ TIME: 0.6166469999999968
+
+OPERATION:  IPv6: ADDRCONF(NETDEV_UP): wlp3s0: link is not ready
+ TIME: 0.6042519999999953
+
+OPERATION: scsi host6: pata_pcmcia
+ TIME: 0.5853609999999989
+
+OPERATION: clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2282c24ee78, max_idle_ns: 440795246698 ns
+ TIME: 0.5745260000000001
+
+OPERATION: EXT4-fs (sda1): mounted filesystem without journal. Opts: (null)
+ TIME: 0.5167280000000005
+
+OPERATION: systemd-journald[428]: Received request to flush runtime journal from PID 1
+ TIME: 0.4244650000000014
+
+OPERATION: audit: type=1400 audit(1676336626.168:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/lightdm/lightdm-guest-session" pid=909 comm="apparmor_parser"
+ TIME: 0.3891670000000005
+
+OPERATION: ieee80211 phy0: Selected rate control algorithm 'iwl-agn-rs'
+ TIME: 0.38168600000000197
+
+OPERATION: random: lvm: uninitialized urandom read (4 bytes read)
+ TIME: 0.3717239999999995
+
+OPERATION: parport_pc 00:05: reported by Plug and Play ACPI
+ TIME: 0.35583400000000154
+
+OPERATION: systemd[1]: systemd 237 running in system mode. (+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD -IDN2 +IDN -PCRE2 default-hierarchy=hybrid)
+ TIME: 0.3552630000000008
+
+OPERATION: Process accounting resumed
+ TIME: 0.35439200000000426
+
+OPERATION: iwlwifi 0000:03:00.0 wlp3s0: renamed from wlan0
+ TIME: 0.3263940000000005
+
+OPERATION: ata6: SATA link down (SStatus 0 SControl 300)
+ TIME: 0.3151930000000007
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0: autoconfig for AD1984A: line_outs=1 (0x12/0x0/0x0/0x0/0x0) type:line
+ TIME: 0.3069720000000018
+
+OPERATION: raid6: mmxx1    gen()  3207 MB/s
+ TIME: 0.30395400000000095
+
+OPERATION: ppdev: user-space parallel port driver
+ TIME: 0.2595400000000012
+
+OPERATION: lp: driver loaded but no devices found
+ TIME: 0.25075399999999703
+
+OPERATION: ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+ TIME: 0.2506700000000004
+
+OPERATION: iscsi: registered transport (tcp)
+ TIME: 0.2493610000000004
+
+OPERATION: ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+ TIME: 0.23364300000000002
+
+OPERATION: tpm tpm0: TPM is disabled/deactivated (0x7)
+ TIME: 0.22550399999999993
+
+OPERATION: Intel(R) Wireless WiFi driver for Linux
+ TIME: 0.2242920000000055
+
+OPERATION: [drm] fb mappable at 0xC0243000
+ TIME: 0.214302
+
+OPERATION: yenta_cardbus 0000:86:09.2: CardBus bridge found [103c:30dc]
+ TIME: 0.211662000000004
+
+OPERATION: input: PS/2 Generic Mouse as /devices/platform/i8042/serio4/serio5/input/input16
+ TIME: 0.20179799999999837
+
+OPERATION: iwlwifi 0000:03:00.0: loaded firmware version 8.83.5.1 build 33692 op_mode iwldvm
+ TIME: 0.1920080000000013
+
+OPERATION: pps_core: LinuxPPS API ver. 1 registered
+ TIME: 0.1890200000000002
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: IO port probe 0x100-0x3af:
+ TIME: 0.18399500000000302
+
+OPERATION: IPv6: ADDRCONF(NETDEV_UP): enp0s25: link is not ready
+ TIME: 0.1805840000000032
+
+OPERATION: kvm: disabled by bios
+ TIME: 0.16734799999999694
+
+OPERATION: Loading iSCSI transport class v2.0-870.
+ TIME: 0.15851800000000082
+
+OPERATION: iwlwifi 0000:03:00.0: Radio type=0x0-0x2-0x0
+ TIME: 0.15793299999999988
+
+OPERATION: input: HDA Intel Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input18
+ TIME: 0.1532179999999954
+
+OPERATION: systemd[1]: Set hostname to <56768>.
+ TIME: 0.13997099999999918
+
+OPERATION: smp: Brought up 1 node, 2 CPUs
+ TIME: 0.134069
+
+OPERATION: hp_accel: hardware type NC693xx found
+ TIME: 0.12398299999999907
+
+OPERATION: smpboot: CPU0: Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz (family: 0x6, model: 0x17, stepping: 0xa)
+ TIME: 0.111987
+
+OPERATION: [drm] ring test on 5 succeeded in 1 usecs
+ TIME: 0.10631799999999991
+
+OPERATION: isapnp: No Plug & Play device found
+ TIME: 0.10571599999999992
+
+OPERATION: ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+ TIME: 0.10369200000000056
+
+OPERATION: lp0: using parport0 (interrupt-driven).
+ TIME: 0.09810600000000136
+
+OPERATION: psmouse serio4: synaptics: queried max coordinates: x [..5694], y [..5048]
+ TIME: 0.08964899999999965
+
+OPERATION: platform eisa.0: EISA: Detected 0 cards
+ TIME: 0.08616899999999994
+
+OPERATION: iwlwifi 0000:03:00.0: CONFIG_IWLWIFI_DEBUG disabled
+ TIME: 0.08563000000000187
+
+OPERATION: Btrfs loaded, crc32c=crc32c-generic
+ TIME: 0.0842880000000008
+
+OPERATION: input: PixArt HP Mobile USB Optical Mouse as /devices/pci0000:00/0000:00:1d.7/usb2/2-1/2-1.2/2-1.2:1.0/0003:03F0:8707.0001/input/input13
+ TIME: 0.0678529999999995
+
+OPERATION: tpm tpm0: Adjusting TPM timeout parameters.
+ TIME: 0.06377199999999994
+
+OPERATION: cfg80211: Loading compiled-in X.509 certificates for regulatory database
+ TIME: 0.06178200000000089
+
+OPERATION: random: lvm: uninitialized urandom read (4 bytes read)
+ TIME: 0.06051300000000026
+
+OPERATION: Console: switching to colour frame buffer device 160x50
+ TIME: 0.06046699999999916
+
+OPERATION: [drm] radeon kernel modesetting enabled.
+ TIME: 0.0567770000000003
+
+OPERATION: usb usb5: SerialNumber: 0000:00:1a.2
+ TIME: 0.05664900000000017
+
+OPERATION: input: HP WMI hotkeys as /devices/virtual/input/input22
+ TIME: 0.048522999999995875
+
+OPERATION: raid6: sse1x2   gen()  2668 MB/s
+ TIME: 0.04802300000000059
+
+OPERATION: raid6: sse2x2   gen()  4266 MB/s
+ TIME: 0.04801399999999845
+
+OPERATION: raid6: sse2x2   xor()  5077 MB/s
+ TIME: 0.04800500000000163
+
+OPERATION: raid6: mmxx2    gen()  3628 MB/s
+ TIME: 0.047995999999999484
+
+OPERATION: raid6: sse2x1   xor()  4252 MB/s
+ TIME: 0.04799500000000023
+
+OPERATION: raid6: sse2x1   gen()  3620 MB/s
+ TIME: 0.04798500000000061
+
+OPERATION: raid6: sse1x1   gen()  2024 MB/s
+ TIME: 0.04798399999999958
+
+OPERATION: tpm_tis 00:01: 1.2 TPM (device-id 0xB, rev-id 16)
+ TIME: 0.044146999999999936
+
+OPERATION: input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input17
+ TIME: 0.04312699999999836
+
+OPERATION: hub 7-0:1.0: 2 ports detected
+ TIME: 0.04254599999999975
+
+OPERATION: input: SynPS/2 Synaptics TouchPad as /devices/platform/i8042/serio4/input/input12
+ TIME: 0.04108099999999926
+
+OPERATION: usbcore: registered new interface driver usbhid
+ TIME: 0.04022300000000012
+
+OPERATION: ata1.00: ATA-8: ST9160412AS, D005SDM1, max UDMA/133
+ TIME: 0.04020099999999971
+
+OPERATION:    prefetch64-sse: 10241.000 MB/sec
+ TIME: 0.03999999999999915
+
+OPERATION: PTP clock support registered
+ TIME: 0.03978700000000046
+
+OPERATION: ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+ TIME: 0.03906299999999874
+
+OPERATION:    pIII_sse  :  9039.000 MB/sec
+ TIME: 0.03883200000000109
+
+OPERATION: ima: No TPM chip found, activating TPM-bypass! (rc=7)
+ TIME: 0.03868699999999947
+
+OPERATION: sdhci-pci 0000:86:09.1: Will use DMA mode even though HW doesn't fully claim to support it.
+ TIME: 0.038306000000000395
+
+OPERATION: intel_powerclamp: No package C-state available
+ TIME: 0.03755199999999803
+
+OPERATION: e1000e: Intel(R) PRO/1000 Network Driver - 3.2.6-k
+ TIME: 0.03724099999999986
+
+OPERATION: clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+ TIME: 0.037179999999999935
+
+OPERATION: acpi device:02: registered as cooling_device3
+ TIME: 0.03664600000000018
+
+OPERATION: fb0: VESA VGA frame buffer device
+ TIME: 0.0361410000000002
+
+OPERATION: zswap: loaded using pool lzo/zbud
+ TIME: 0.035966000000000165
+
+OPERATION: Console: switching to colour frame buffer device 128x48
+ TIME: 0.03585899999999986
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (Ubuntu Core 2019): c1d57b8f6b743f23ee41f4f7ee292f06eecadfb9'
+ TIME: 0.03476699999999955
+
+OPERATION: sdhci-pci 0000:86:09.1: SDHCI controller found [1180:0822] (rev 25)
+ TIME: 0.03474099999999947
+
+OPERATION: usbcore: registered new interface driver btusb
+ TIME: 0.03394499999999567
+
+OPERATION: sdhci-pci 0000:86:09.1: Will use DMA mode even though HW doesn't fully claim to support it.
+ TIME: 0.03317500000000084
+
+OPERATION: psmouse serio4: synaptics: Touchpad model: 1, fw: 7.0, id: 0x1c0b1, caps: 0xd04791/0xb00000/0x20000/0x0, board id: 0, fw id: 504136
+ TIME: 0.032249000000000194
+
+OPERATION: IPv6: ADDRCONF(NETDEV_UP): wlp3s0: link is not ready
+ TIME: 0.03216700000000117
+
+OPERATION: ehci-pci 0000:00:1a.7: USB 2.0 started, EHCI 1.00
+ TIME: 0.0321410000000002
+
+OPERATION: ACPI: Battery Slot [BAT0] (battery present)
+ TIME: 0.03159100000000015
+
+OPERATION: firewire_core 0000:86:09.0: created device fw0: GUID 5566778811223344, S400
+ TIME: 0.03145600000000037
+
+OPERATION: kvm: disabled by bios
+ TIME: 0.03107100000000429
+
+OPERATION: random: lvm: uninitialized urandom read (2 bytes read)
+ TIME: 0.030715000000000714
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Kernel Module Signing: 88f752e560a1e0737e31163a466ad7b70a850c19'
+ TIME: 0.03045799999999943
+
+OPERATION: sr 1:0:0:0: [sr0] scsi3-mmc drive: 24x/24x writer dvd-ram cd/rw xa/form2 cdda tray
+ TIME: 0.030267999999999518
+
+OPERATION: e1000e 0000:00:19.0 eth0: (PCI Express:2.5GT/s:Width x1) 00:24:81:f7:62:3e
+ TIME: 0.03019800000000039
+
+OPERATION: ehci-pci 0000:00:1d.7: USB 2.0 started, EHCI 1.00
+ TIME: 0.02959999999999985
+
+OPERATION: serio: i8042 AUX2 port at 0x60,0x64 irq 12
+ TIME: 0.029290999999999734
+
+OPERATION: Write protecting the kernel text: 9024k
+ TIME: 0.02925299999999975
+
+OPERATION: registered taskstats version 1
+ TIME: 0.02860599999999991
+
+OPERATION: random: lvm: uninitialized urandom read (4 bytes read)
+ TIME: 0.028385999999999356
+
+OPERATION: pata_acpi 0000:00:03.2: enabling device (0000 -> 0001)
+ TIME: 0.02802099999999985
+
+OPERATION: usb usb4: New USB device found, idVendor=1d6b, idProduct=0001
+ TIME: 0.02693499999999993
+
+OPERATION: [drm] ib test on ring 5 succeeded
+ TIME: 0.02523000000000053
+
+OPERATION: 0000:00:03.3: ttyS4 at I/O 0x8120 (irq = 17, base_baud = 115200) is a 16550A
+ TIME: 0.02408699999999997
+
+OPERATION: sdhci: Secure Digital Host Controller Interface driver
+ TIME: 0.023937000000000097
+
+OPERATION: EXT4-fs (dm-0): mounted filesystem with ordered data mode. Opts: (null)
+ TIME: 0.02363399999999949
+
+OPERATION: systemd[1]: Detected architecture x86.
+ TIME: 0.023538999999999533
+
+OPERATION: mmc0 bounce up to 128 segments into one, max segment size 65536 bytes
+ TIME: 0.023395999999999972
+
+OPERATION: Key type big_key registered
+ TIME: 0.02323400000000042
+
+OPERATION: tpm tpm0: [Hardware Error]: Adjusting reported timeouts: A 750->750000us B 2000->2000000us C 750->750000us D 750->750000us
+ TIME: 0.022943999999999853
+
+OPERATION: loop: module loaded
+ TIME: 0.022677999999999976
+
+OPERATION: ehci-pci 0000:00:1a.7: cache line size of 64 is not supported
+ TIME: 0.021710999999999814
+
+OPERATION: firewire_ohci 0000:86:09.0: added OHCI v1.10 device as card 0, 4 IR + 4 IT contexts, quirks 0x11
+ TIME: 0.021524999999999572
+
+OPERATION: scsi host0: ahci
+ TIME: 0.02089199999999991
+
+OPERATION: ehci-pci 0000:00:1d.7: cache line size of 64 is not supported
+ TIME: 0.020310000000000272
+
+OPERATION: Key type encrypted registered
+ TIME: 0.020147999999999833
+
+OPERATION: Segment Routing with IPv6
+ TIME: 0.02009699999999981
+
+OPERATION: tsc: Fast TSC calibration using PIT
+ TIME: 0.02
+
+OPERATION: Freeing unused kernel image memory: 1132K
+ TIME: 0.019980999999999582
+
+OPERATION: input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:01/LNXVIDEO:00/input/input8
+ TIME: 0.019846999999999504
+
+OPERATION: hidraw: raw HID events driver (C) Jiri Kosina
+ TIME: 0.01977399999999996
+
+OPERATION: checking generic (c0000000 300000) vs hw (c0000000 8000000)
+ TIME: 0.019692999999999294
+
+OPERATION: Console: switching to colour dummy device 80x25
+ TIME: 0.01947499999999991
+
+OPERATION: ACPI: Video Device [DGFX] (multi-head: yes  rom: no  post: no)
+ TIME: 0.019427999999999557
+
+OPERATION: e1000e 0000:00:19.0: Interrupt Throttling Rate (ints/sec) set to dynamic conservative mode
+ TIME: 0.0193670000000008
+
+OPERATION: hid-generic 0003:03F0:8707.0001: input,hidraw0: USB HID v1.11 Mouse [PixArt HP Mobile USB Optical Mouse] on usb-0000:00:1d.7-1.2/input0
+ TIME: 0.019351999999999592
+
+OPERATION: sdhci: Copyright(c) Pierre Ossman
+ TIME: 0.019263000000000474
+
+OPERATION: e1000e: Copyright(c) 1999 - 2015 Intel Corporation.
+ TIME: 0.01904099999999964
+
+OPERATION: tun: Universal TUN/TAP device driver, 1.6
+ TIME: 0.019024000000000374
+
+OPERATION: BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+ TIME: 0.018982999999999528
+
+OPERATION: PPP generic driver version 2.4.2
+ TIME: 0.018714999999999815
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Live Patch Signing: 14df34d1a87cf37625abec039ef2bf521249b969'
+ TIME: 0.018648999999999916
+
+OPERATION: ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+ TIME: 0.018632000000000204
+
+OPERATION: ehci-pci: EHCI PCI platform driver
+ TIME: 0.018598999999999588
+
+OPERATION: ehci-pci 0000:00:1a.7: EHCI Host Controller
+ TIME: 0.018543000000000198
+
+OPERATION: pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+ TIME: 0.018358000000000096
+
+OPERATION: VFS: Disk quotas dquot_6.6.0
+ TIME: 0.018340999999999996
+
+OPERATION: Write protecting the kernel read-only data: 3520k
+ TIME: 0.018176000000000414
+
+OPERATION: usbhid: USB HID core driver
+ TIME: 0.018163999999999625
+
+OPERATION: ehci-pci 0000:00:1a.7: new USB bus registered, assigned bus number 1
+ TIME: 0.018152999999999864
+
+OPERATION: EDD information not available.
+ TIME: 0.01812000000000058
+
+OPERATION: ehci-pci 0000:00:1a.7: debug port 1
+ TIME: 0.01811100000000021
+
+OPERATION: Key type trusted registered
+ TIME: 0.017875000000000085
+
+OPERATION: usb 2-1.3: New USB device found, idVendor=05af, idProduct=1053
+ TIME: 0.017857000000000234
+
+OPERATION: NX-protecting the kernel data: 7360k
+ TIME: 0.017840999999999774
+
+OPERATION: x86/mm: Checking user space page tables
+ TIME: 0.017822999999999922
+
+OPERATION: usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.017768000000000228
+
+OPERATION: x86/mm: Checked W+X mappings: passed, no W+X pages found.
+ TIME: 0.017755000000000187
+
+OPERATION: usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+ TIME: 0.017720999999999876
+
+OPERATION: x86/mm: Checked W+X mappings: passed, no W+X pages found.
+ TIME: 0.017675999999999803
+
+OPERATION: usb usb1: Product: EHCI Host Controller
+ TIME: 0.017652999999999697
+
+OPERATION: hub 1-0:1.0: USB hub found
+ TIME: 0.017630000000000035
+
+OPERATION: ACPI: Battery Slot [BAT1] (battery absent)
+ TIME: 0.01756000000000002
+
+OPERATION: usb usb1: SerialNumber: 0000:00:1a.7
+ TIME: 0.017542999999999864
+
+OPERATION: Linux agpgart interface v0.103
+ TIME: 0.017492000000000063
+
+OPERATION: usb usb1: Manufacturer: Linux 4.15.0-204-generic ehci_hcd
+ TIME: 0.017479000000000244
+
+OPERATION: ehci-pci 0000:00:1d.7: EHCI Host Controller
+ TIME: 0.017450000000000188
+
+OPERATION: ima: Allocated hash algorithm: sha1
+ TIME: 0.017390000000000683
+
+OPERATION:   Magic number: 11:91:3
+ TIME: 0.017367000000000132
+
+OPERATION: rtc_cmos 00:04: setting system clock to 2023-02-14 01:03:04 UTC (1676336584)
+ TIME: 0.01730099999999979
+
+OPERATION: hub 1-0:1.0: 6 ports detected
+ TIME: 0.017275999999999847
+
+OPERATION: evm: HMAC attrs: 0x1
+ TIME: 0.017244999999999955
+
+OPERATION: AppArmor: AppArmor sha1 policy hashing enabled
+ TIME: 0.017212999999999923
+
+OPERATION: ehci-pci 0000:00:1d.7: new USB bus registered, assigned bus number 2
+ TIME: 0.01680999999999999
+
+OPERATION: ehci-pci 0000:00:1d.7: debug port 1
+ TIME: 0.016760999999999804
+
+OPERATION: usb 4-1: Product: Fingerprint Sensor
+ TIME: 0.01670499999999997
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v3): 100437bb6de6e469b581e61cd66bce3ef4ed53af'
+ TIME: 0.01638300000000026
+
+OPERATION: usb usb2: New USB device found, idVendor=1d6b, idProduct=0002
+ TIME: 0.016131999999999813
+
+OPERATION: usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.015906000000000198
+
+OPERATION: i8042: Detected active multiplexing controller, rev 1.1
+ TIME: 0.015884000000000675
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2017): 242ade75ac4a15e50d50c84b0d45ff3eae707a03'
+ TIME: 0.015882000000000396
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2019): c0746fd6c5da3ae827864651ad66ae47fe24b3e8'
+ TIME: 0.015849999999999476
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v1): a8d54bbb3825cfb94fa13c9f8a594a195c107b8d'
+ TIME: 0.015829000000000093
+
+OPERATION: [drm] Initialized radeon 2.50.0 20080528 for 0000:01:00.0 on minor 0
+ TIME: 0.015798999999999452
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (ESM 2018): 365188c1d374d6b07c3c8f240f8ef722433d6a8b'
+ TIME: 0.01578500000000016
+
+OPERATION: usb 4-1: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+ TIME: 0.015716000000000285
+
+OPERATION:  sda: sda1 sda2 < sda5 >
+ TIME: 0.015591999999999828
+
+OPERATION: usb usb2: Product: EHCI Host Controller
+ TIME: 0.015505000000000102
+
+OPERATION: usb usb2: SerialNumber: 0000:00:1d.7
+ TIME: 0.015502000000000127
+
+OPERATION: blacklist: Loading compiled-in revocation X.509 certificates
+ TIME: 0.01548800000000039
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing: 61482aa2830d0ab2ad5af10b7250da9033ddcef0'
+ TIME: 0.015482999999999691
+
+OPERATION: hub 2-0:1.0: USB hub found
+ TIME: 0.01547199999999993
+
+OPERATION: usb usb2: Manufacturer: Linux 4.15.0-204-generic ehci_hcd
+ TIME: 0.015401999999999916
+
+OPERATION: ehci-platform: EHCI generic platform driver
+ TIME: 0.01530699999999996
+
+OPERATION: uhci_hcd 0000:00:1a.0: UHCI Host Controller
+ TIME: 0.015303999999999984
+
+OPERATION: hub 2-0:1.0: 6 ports detected
+ TIME: 0.015219000000000094
+
+OPERATION: ohci-pci: OHCI PCI platform driver
+ TIME: 0.015199999999999658
+
+OPERATION: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+ TIME: 0.015193000000000012
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 7
+ TIME: 0.015186999999999173
+
+OPERATION: thermal LNXTHERM:02: registered as thermal_zone1
+ TIME: 0.015176999999999996
+
+OPERATION: usb 4-1: new full-speed USB device number 2 using uhci_hcd
+ TIME: 0.015110000000000845
+
+OPERATION: uhci_hcd 0000:00:1a.0: detected 2 ports
+ TIME: 0.015100000000000335
+
+OPERATION: ohci-platform: OHCI generic platform driver
+ TIME: 0.015077000000000229
+
+OPERATION: input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input3
+ TIME: 0.015075000000000394
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 1
+ TIME: 0.015071999999999974
+
+OPERATION: uhci_hcd: USB Universal Host Controller Interface driver
+ TIME: 0.015029999999999877
+
+OPERATION: uhci_hcd 0000:00:1a.0: new USB bus registered, assigned bus number 3
+ TIME: 0.01500199999999996
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 2
+ TIME: 0.01500199999999996
+
+OPERATION: platform eisa.0: Probing EISA bus 0
+ TIME: 0.014804999999999957
+
+OPERATION: usb usb3: Manufacturer: Linux 4.15.0-204-generic uhci_hcd
+ TIME: 0.014784999999999826
+
+OPERATION: uhci_hcd 0000:00:1a.0: irq 16, io base 0x000080c0
+ TIME: 0.014780999999999711
+
+OPERATION: usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.014771999999999785
+
+OPERATION: platform eisa.0: EISA: Cannot allocate resource for mainboard
+ TIME: 0.014762000000000164
+
+OPERATION: rtc_cmos 00:04: RTC can wake from S4
+ TIME: 0.014757999999999605
+
+OPERATION: usb usb3: Product: UHCI Host Controller
+ TIME: 0.01471
+
+OPERATION: rtc_cmos 00:04: rtc core: registered rtc_cmos as rtc0
+ TIME: 0.014667000000000208
+
+OPERATION: usb 2-1.2: new low-speed USB device number 3 using ehci-pci
+ TIME: 0.014651999999999887
+
+OPERATION: usb usb3: New USB device found, idVendor=1d6b, idProduct=0001
+ TIME: 0.014645000000000241
+
+OPERATION: NET: Registered protocol family 10
+ TIME: 0.014637999999999707
+
+OPERATION: serio: i8042 AUX3 port at 0x60,0x64 irq 12
+ TIME: 0.014631000000000505
+
+OPERATION: mousedev: PS/2 mouse device common for all mice
+ TIME: 0.014628000000000085
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 8
+ TIME: 0.014612999999999765
+
+OPERATION: i2c /dev entries driver
+ TIME: 0.014610000000000234
+
+OPERATION: usb usb3: SerialNumber: 0000:00:1a.0
+ TIME: 0.01454500000000003
+
+OPERATION: device-mapper: uevent: version 1.0.3
+ TIME: 0.014492999999999867
+
+OPERATION: device-mapper: ioctl: 4.37.0-ioctl (2017-09-20) initialised: dm-devel@redhat.com
+ TIME: 0.014475000000000016
+
+OPERATION: rtc_cmos 00:04: alarms up to one month, y3k, 242 bytes nvram, hpet irqs
+ TIME: 0.014473999999999876
+
+OPERATION: mce: Using 6 MCE banks
+ TIME: 0.014471999999999596
+
+OPERATION: usb 2-1.2: Product: HP Mobile USB Optical Mouse
+ TIME: 0.014454000000000633
+
+OPERATION: uhci_hcd 0000:00:1d.2: UHCI Host Controller
+ TIME: 0.014416999999999902
+
+OPERATION: serio: i8042 AUX1 port at 0x60,0x64 irq 12
+ TIME: 0.014413999999999483
+
+OPERATION: microcode: Microcode Update Driver: v2.2.
+ TIME: 0.01440200000000047
+
+OPERATION: usb 2-1.2: Manufacturer: PixArt
+ TIME: 0.01440000000000019
+
+OPERATION: usb usb8: SerialNumber: 0000:00:1d.2
+ TIME: 0.01438299999999959
+
+OPERATION: usb usb8: Manufacturer: Linux 4.15.0-204-generic uhci_hcd
+ TIME: 0.014356000000000257
+
+OPERATION: uhci_hcd 0000:00:1d.0: detected 2 ports
+ TIME: 0.014349999999999419
+
+OPERATION: usb 3-1: Manufacturer: Broadcom Corp
+ TIME: 0.014346999999999888
+
+OPERATION: uhci_hcd 0000:00:1d.1: UHCI Host Controller
+ TIME: 0.014336000000000126
+
+OPERATION: usb usb8: Product: UHCI Host Controller
+ TIME: 0.014319999999999666
+
+OPERATION: hub 8-0:1.0: USB hub found
+ TIME: 0.014317000000000135
+
+OPERATION: hub 3-0:1.0: USB hub found
+ TIME: 0.01431300000000002
+
+OPERATION: Key type dns_resolver registered
+ TIME: 0.014311000000000185
+
+OPERATION: usb usb8: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.014299000000000284
+
+OPERATION: uhci_hcd 0000:00:1d.2: detected 2 ports
+ TIME: 0.014297000000000004
+
+OPERATION: ledtrig-cpu: registered to indicate activity on CPUs
+ TIME: 0.014297000000000004
+
+OPERATION: hub 6-0:1.0: USB hub found
+ TIME: 0.014281000000000432
+
+OPERATION: NET: Registered protocol family 17
+ TIME: 0.014279000000000153
+
+OPERATION: cpufreq_nforce2: No nForce2 chipset
+ TIME: 0.01425700000000063
+
+OPERATION: usb usb7: SerialNumber: 0000:00:1d.1
+ TIME: 0.01424000000000003
+
+OPERATION: hub 7-0:1.0: USB hub found
+ TIME: 0.01423400000000008
+
+OPERATION: uhci_hcd 0000:00:1d.2: irq 18, io base 0x00008020
+ TIME: 0.014196000000000097
+
+OPERATION: uhci_hcd 0000:00:1a.1: UHCI Host Controller
+ TIME: 0.014186000000000032
+
+OPERATION: usb usb6: Product: UHCI Host Controller
+ TIME: 0.014183000000000057
+
+OPERATION: usb usb6: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.014170000000000016
+
+OPERATION: usb usb8: New USB device found, idVendor=1d6b, idProduct=0001
+ TIME: 0.014170000000000016
+
+OPERATION: usb usb6: SerialNumber: 0000:00:1d.0
+ TIME: 0.014167999999999736
+
+OPERATION: hub 5-0:1.0: USB hub found
+ TIME: 0.014167000000000485
+
+OPERATION: uhci_hcd 0000:00:1d.0: UHCI Host Controller
+ TIME: 0.014160999999999646
+
+OPERATION: serio: i8042 AUX0 port at 0x60,0x64 irq 12
+ TIME: 0.014152000000000164
+
+OPERATION: usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+ TIME: 0.014149999999999885
+
+OPERATION: uhci_hcd 0000:00:1d.0: irq 20, io base 0x00008060
+ TIME: 0.014145000000000074
+
+OPERATION: microcode: sig=0x1067a, pf=0x80, revision=0xa0b
+ TIME: 0.014139000000000124
+
+OPERATION: hub 6-0:1.0: 2 ports detected
+ TIME: 0.014120000000000132
+
+OPERATION: usb usb6: Manufacturer: Linux 4.15.0-204-generic uhci_hcd
+ TIME: 0.014115999999999573
+
+OPERATION: i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f13:PS2M] at 0x60,0x64 irq 1,12
+ TIME: 0.014093999999999163
+
+OPERATION: usb usb7: Manufacturer: Linux 4.15.0-204-generic uhci_hcd
+ TIME: 0.014085999999999821
+
+OPERATION: hub 2-1:1.0: 4 ports detected
+ TIME: 0.0140760000000002
+
+OPERATION: uhci_hcd 0000:00:1d.2: new USB bus registered, assigned bus number 8
+ TIME: 0.0140760000000002
+
+OPERATION: usb usb6: New USB device found, idVendor=1d6b, idProduct=0001
+ TIME: 0.014041000000000636
+
+OPERATION: uhci_hcd 0000:00:1d.1: detected 2 ports
+ TIME: 0.014025000000000176
+
+OPERATION: hub 8-0:1.0: 2 ports detected
+ TIME: 0.014008000000000465
+
+OPERATION: hub 2-1:1.0: USB hub found
+ TIME: 0.01398799999999989
+
+OPERATION: hub 5-0:1.0: 2 ports detected
+ TIME: 0.013978999999999964
+
+OPERATION: Loading compiled-in X.509 certificates
+ TIME: 0.013969999999999594
+
+OPERATION: hub 3-0:1.0: 2 ports detected
+ TIME: 0.013964000000000087
+
+OPERATION: uhci_hcd 0000:00:1d.0: new USB bus registered, assigned bus number 6
+ TIME: 0.013961000000000112
+
+OPERATION: uhci_hcd 0000:00:1d.1: new USB bus registered, assigned bus number 7
+ TIME: 0.013948999999999323
+
+OPERATION: usb usb7: Product: UHCI Host Controller
+ TIME: 0.01393600000000017
+
+OPERATION: usb usb7: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.013930999999999472
+
+OPERATION: usb usb5: Manufacturer: Linux 4.15.0-204-generic uhci_hcd
+ TIME: 0.013890999999999654
+
+OPERATION: uhci_hcd 0000:00:1a.2: UHCI Host Controller
+ TIME: 0.013819999999999943
+
+OPERATION: uhci_hcd 0000:00:1d.1: irq 22, io base 0x00008040
+ TIME: 0.013811000000000462
+
+OPERATION: usb usb7: New USB device found, idVendor=1d6b, idProduct=0001
+ TIME: 0.013787999999999911
+
+OPERATION: mmc0: SDHCI controller on PCI [0000:86:09.1] using DMA
+ TIME: 0.013753000000000348
+
+OPERATION: hub 4-0:1.0: USB hub found
+ TIME: 0.013749000000000233
+
+OPERATION: hid-generic 0003:05AF:1053.0003: input,hiddev0,hidraw2: USB HID v1.11 Mouse [HID 05af:1053] on usb-0000:00:1d.7-1.3/input1
+ TIME: 0.013683999999999585
+
+OPERATION: uhci_hcd 0000:00:1a.2: detected 2 ports
+ TIME: 0.013666000000000178
+
+OPERATION: usb usb4: SerialNumber: 0000:00:1a.1
+ TIME: 0.013626999999999612
+
+OPERATION: uhci_hcd 0000:00:1a.1: new USB bus registered, assigned bus number 4
+ TIME: 0.013593999999999884
+
+OPERATION: usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.013562999999999992
+
+OPERATION: usb 2-1.2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+ TIME: 0.013547999999999227
+
+OPERATION: usb usb4: Product: UHCI Host Controller
+ TIME: 0.013541000000000025
+
+OPERATION: usb usb5: Product: UHCI Host Controller
+ TIME: 0.013526000000000149
+
+OPERATION: hub 4-0:1.0: 2 ports detected
+ TIME: 0.01352500000000001
+
+OPERATION: uhci_hcd 0000:00:1a.2: new USB bus registered, assigned bus number 5
+ TIME: 0.013476999999999961
+
+OPERATION: usb usb4: Manufacturer: Linux 4.15.0-204-generic uhci_hcd
+ TIME: 0.013441000000000258
+
+OPERATION: uhci_hcd 0000:00:1a.1: detected 2 ports
+ TIME: 0.013437000000000143
+
+OPERATION: ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+ TIME: 0.013436000000000448
+
+OPERATION: usb 2-1: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+ TIME: 0.013361000000000178
+
+OPERATION: uhci_hcd 0000:00:1a.2: irq 18, io base 0x00008080
+ TIME: 0.013357000000000063
+
+OPERATION: usb 3-1: new full-speed USB device number 2 using uhci_hcd
+ TIME: 0.013222000000000289
+
+OPERATION: ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+ TIME: 0.013091999999999437
+
+OPERATION: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v2): 4cf046892d6fd3c9a5b03f98d845f90851dc6a8c'
+ TIME: 0.012738999999999834
+
+OPERATION: pci 0000:00:1c.1: PCI bridge to [bus 03]
+ TIME: 0.011896999999999991
+
+OPERATION: pcmcia_socket pcmcia_socket0: pccard: PCMCIA card inserted into slot 0
+ TIME: 0.011590999999995688
+
+OPERATION: usb 2-1.3: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+ TIME: 0.011514000000000024
+
+OPERATION: [drm] PCIE GART of 512M enabled (table at 0x0000000000142000).
+ TIME: 0.011267000000000138
+
+OPERATION: [drm] ring test on 0 succeeded in 1 usecs
+ TIME: 0.010488000000000497
+
+OPERATION: ACPI: Dynamic OEM Table Load:
+ TIME: 0.009313000000000016
+
+OPERATION: uhci_hcd 0000:00:1a.1: irq 17, io base 0x000080a0
+ TIME: 0.009294999999999831
+
+OPERATION: ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+ TIME: 0.00877699999999998
+
+OPERATION: usb usb5: New USB device found, idVendor=1d6b, idProduct=0001
+ TIME: 0.008728999999999765
+
+OPERATION: serio: i8042 KBD port at 0x60,0x64 irq 1
+ TIME: 0.007857000000000447
+
+OPERATION: ACPI: Power Resource [COMP] (off)
+ TIME: 0.007642000000000038
+
+OPERATION: intel_powerclamp: No package C-state available
+ TIME: 0.007401000000001545
+
+OPERATION: usb 2-1.2: New USB device found, idVendor=03f0, idProduct=8707
+ TIME: 0.00725399999999965
+
+OPERATION: iwlwifi 0000:03:00.0: Radio type=0x0-0x2-0x0
+ TIME: 0.006716000000004385
+
+OPERATION: PCI: pci_cache_line_size set to 64 bytes
+ TIME: 0.006081999999999976
+
+OPERATION: (NULL device *): hwmon_device_register() is deprecated. Please convert the driver to use hwmon_device_register_with_info().
+ TIME: 0.00546000000000002
+
+OPERATION: input: HID 05af:1053 as /devices/pci0000:00/0000:00:1d.7/usb2/2-1/2-1.3/2-1.3:1.0/0003:05AF:1053.0002/input/input14
+ TIME: 0.005364999999999398
+
+OPERATION: xor: measuring software checksum speed
+ TIME: 0.005056999999998979
+
+OPERATION: systemd[1]: Created slice User and Session Slice.
+ TIME: 0.005023000000001332
+
+OPERATION: cfg80211: Loaded X.509 cert 'sforshee: 00b28ddf47aef9cea7'
+ TIME: 0.004761999999999489
+
+OPERATION: usb 2-1: New USB device found, idVendor=1a40, idProduct=0101
+ TIME: 0.004669999999999952
+
+OPERATION: IPv6: ADDRCONF(NETDEV_UP): wlp3s0: link is not ready
+ TIME: 0.004602999999995916
+
+OPERATION: systemd[1]: Created slice System Slice.
+ TIME: 0.004439000000001414
+
+OPERATION: yenta_cardbus 0000:86:09.2: pcmcia: parent PCI bridge window: [mem 0xc8000000-0xc80fffff]
+ TIME: 0.004347000000002765
+
+OPERATION: async_tx: api initialized (async)
+ TIME: 0.004316000000001097
+
+OPERATION: systemd[1]: Listening on LVM2 metadata daemon socket.
+ TIME: 0.004281999999999897
+
+OPERATION: radeon 0000:01:00.0: fb0: radeondrmfb frame buffer device
+ TIME: 0.0042200000000001125
+
+OPERATION: systemd[1]: Listening on udev Kernel Socket.
+ TIME: 0.004208999999999463
+
+OPERATION: thermal LNXTHERM:03: registered as thermal_zone2
+ TIME: 0.004170000000000007
+
+OPERATION: systemd[1]: Started ntp-systemd-netif.path.
+ TIME: 0.0041440000000001476
+
+OPERATION: thermal LNXTHERM:05: registered as thermal_zone4
+ TIME: 0.0040199999999999125
+
+OPERATION: systemd[1]: Started Forward Password Requests to Wall Directory Watch.
+ TIME: 0.004017999999998523
+
+OPERATION: thermal LNXTHERM:04: registered as thermal_zone3
+ TIME: 0.0040080000000000116
+
+OPERATION: tsc: Detected 2394.185 MHz processor
+ TIME: 0.004
+
+OPERATION: usb 2-1: new high-speed USB device number 2 using ehci-pci
+ TIME: 0.003925000000000178
+
+OPERATION:  excluding 0xc80fe000-0xc810bfff
+ TIME: 0.0035560000000032232
+
+OPERATION: allocated 4194304 bytes of page_ext
+ TIME: 0.0032119999999999926
+
+OPERATION: audit: type=1400 audit(1676336626.172:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=912 comm="apparmor_parser"
+ TIME: 0.003097000000003902
+
+OPERATION: usb 4-1: New USB device found, idVendor=08ff, idProduct=2810
+ TIME: 0.0029609999999999914
+
+OPERATION: pci 0000:01:00.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+ TIME: 0.002807000000000004
+
+OPERATION: Loaded X.509 cert 'Build time autogenerated kernel key: 89f05648b750778f75bebc23bf6af5cb75619706'
+ TIME: 0.0027420000000004663
+
+OPERATION: EISA bus registered
+ TIME: 0.002715999999999996
+
+OPERATION: clocksource: Switched to clocksource hpet
+ TIME: 0.002601999999999993
+
+OPERATION: yenta_cardbus 0000:86:09.2: ISA IRQ mask 0x0c98, PCI irq 22
+ TIME: 0.0025460000000023797
+
+OPERATION: input: HID 05af:1053 as /devices/pci0000:00/0000:00:1d.7/usb2/2-1/2-1.3/2-1.3:1.1/0003:05AF:1053.0003/input/input15
+ TIME: 0.0024329999999999075
+
+OPERATION: acpi PNP0A08:00: _OSC: OS now controls [PCIeHotplug PME AER PCIeCapability]
+ TIME: 0.0021539999999999893
+
+OPERATION: zbud: loaded
+ TIME: 0.002114999999999867
+
+OPERATION: e1000e 0000:00:19.0 enp0s25: renamed from eth0
+ TIME: 0.0018580000000003594
+
+OPERATION: Key type asymmetric registered
+ TIME: 0.0018279999999999408
+
+OPERATION: HugeTLB registered 2.00 MiB page size, pre-allocated 0 pages
+ TIME: 0.001817000000000013
+
+OPERATION: hid-generic 0003:05AF:1053.0002: input,hidraw1: USB HID v1.11 Keyboard [HID 05af:1053] on usb-0000:00:1d.7-1.3/input0
+ TIME: 0.0017570000000004526
+
+OPERATION: pcieport 0000:00:01.0: Signaling PME with IRQ 24
+ TIME: 0.001722999999999919
+
+OPERATION: ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+ TIME: 0.001691000000000109
+
+OPERATION: parport0: PC-style at 0x378 (0x778), irq 5, using FIFO [PCSPP,TRISTATE,COMPAT,EPP,ECP]
+ TIME: 0.0016079999999973893
+
+OPERATION: ACPI: Power Resource [APPR] (off)
+ TIME: 0.0015949999999999576
+
+OPERATION: ACPI: Power Resource [PGF0] (off)
+ TIME: 0.0014879999999999893
+
+OPERATION: scsi 1:0:0:0: CD-ROM            Optiarc  DVD RW AD-7561S  AH03 PQ: 0 ANSI: 5
+ TIME: 0.0014499999999992852
+
+OPERATION: ACPI: EC: interrupt unblocked
+ TIME: 0.0011710000000000331
+
+OPERATION: thermal LNXTHERM:01: registered as thermal_zone0
+ TIME: 0.0009889999999999066
+
+OPERATION: ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+ TIME: 0.0009139999999998594
+
+OPERATION: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+ TIME: 0.0009020000000000139
+
+OPERATION:  excluding 0x2000-0x20ff 0x2400-0x24ff
+ TIME: 0.0008819999999971628
+
+OPERATION: [drm] radeon atom DIG backlight initialized
+ TIME: 0.0008479999999995158
+
+OPERATION: Initialise system trusted keyrings
+ TIME: 0.0008470000000000422
+
+OPERATION: Monitor-Mwait will be used to enter C-1 state
+ TIME: 0.0007569999999998966
+
+OPERATION: [drm] ib test on ring 0 succeeded in 0 usecs
+ TIME: 0.0007310000000000372
+
+OPERATION:  excluding 0x200-0x27f 0x378-0x37f
+ TIME: 0.0007260000000002265
+
+OPERATION: ACPI: Power Resource [LPP] (on)
+ TIME: 0.0007059999999999844
+
+OPERATION: squashfs: version 4.0 (2009/01/31) Phillip Lougher
+ TIME: 0.0006190000000001472
+
+OPERATION: ACPI: EC: EC started
+ TIME: 0.0006059999999999954
+
+OPERATION: lis3lv02d: 8 bits sensor found
+ TIME: 0.0006050000000001887
+
+OPERATION: PCI host bridge to bus 0000:00
+ TIME: 0.0005910000000000082
+
+OPERATION: ACPI: Sleep Button [SLPB]
+ TIME: 0.0005729999999999347
+
+OPERATION: sd 0:0:0:0: [sda] Attached SCSI disk
+ TIME: 0.0005660000000000664
+
+OPERATION: ACPI: Lid Switch [LID]
+ TIME: 0.0005579999999998364
+
+OPERATION: ACPI: Power Button [PWRF]
+ TIME: 0.0005530000000000257
+
+OPERATION: ACPI: Dynamic OEM Table Load:
+ TIME: 0.0005519999999999969
+
+OPERATION: pnp 00:05: [dma 0 disabled]
+ TIME: 0.0005269999999999997
+
+OPERATION: PCI: Using ACPI for IRQ routing
+ TIME: 0.0005209999999999937
+
+OPERATION: radeon 0000:01:00.0: fence driver on ring 5 use gpu addr 0x00000000000521d0 and cpu addr 0x(ptrval)
+ TIME: 0.0005079999999999529
+
+OPERATION: pnp 00:01: Plug and Play ACPI device, IDs IFX0102 PNP0c31 (active)
+ TIME: 0.0005030000000000312
+
+OPERATION: Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+ TIME: 0.0005010000000000847
+
+OPERATION: isapnp: Scanning for PnP cards...
+ TIME: 0.00048599999999998644
+
+OPERATION:  clean
+ TIME: 0.0004390000000000782
+
+OPERATION: SCSI subsystem initialized
+ TIME: 0.0004309999999999592
+
+OPERATION:  clean
+ TIME: 0.0004249999999998977
+
+OPERATION: ACPI: Thermal Zone [BATZ] (30 C)
+ TIME: 0.00039999999999995595
+
+OPERATION: ACPI: Thermal Zone [DTSZ] (39 C)
+ TIME: 0.00039700000000020275
+
+OPERATION: ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 7 *10 12 14 15)
+ TIME: 0.00039400000000000546
+
+OPERATION: ACPI: Thermal Zone [CPUZ] (45 C)
+ TIME: 0.0003869999999999152
+
+OPERATION:  clean
+ TIME: 0.00038400000000393675
+
+OPERATION: ACPI: Thermal Zone [LOCZ] (24 C)
+ TIME: 0.0003820000000001045
+
+OPERATION: ACPI: Thermal Zone [VGAZ] (30 C)
+ TIME: 0.00038199999999988243
+
+OPERATION: input: Sleep Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input0
+ TIME: 0.0003670000000000062
+
+OPERATION: usb usb5: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+ TIME: 0.0003439999999996779
+
+OPERATION: sd 0:0:0:0: Attached scsi generic sg0 type 0
+ TIME: 0.00033500000000064034
+
+OPERATION: ACPI: GPE 0x02 active on init
+ TIME: 0.0003250000000000197
+
+OPERATION: ata1.00: configured for UDMA/133
+ TIME: 0.00031800000000004047
+
+OPERATION: intel_idle: does not run on family 6 model 23
+ TIME: 0.00031199999999986794
+
+OPERATION: TCP established hash table entries: 8192 (order: 3, 32768 bytes)
+ TIME: 0.0003109999999999502
+
+OPERATION: ahci 0000:00:1f.2: SSS flag set, parallel bus scan disabled
+ TIME: 0.00030999999999981043
+
+OPERATION: [drm] initializing kernel modesetting (RV620 0x1002:0x95C4 0x103C:0x30DC 0x00).
+ TIME: 0.00030300000000060834
+
+OPERATION: input: Lid Switch as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0D:00/input/input1
+ TIME: 0.00030300000000016425
+
+OPERATION: input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input2
+ TIME: 0.00029300000000009874
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: IO port probe 0x3e0-0x4ff:
+ TIME: 0.0002899999999996794
+
+OPERATION: ACPI: Dynamic OEM Table Load:
+ TIME: 0.00028100000000000347
+
+OPERATION: ACPI: Dynamic OEM Table Load:
+ TIME: 0.00025299999999997547
+
+OPERATION: scsi 0:0:0:0: Direct-Access     ATA      ST9160412AS      SDM1 PQ: 0 ANSI: 5
+ TIME: 0.0002519999999996969
+
+OPERATION: fuse init (API version 7.26)
+ TIME: 0.0002510000000000012
+
+OPERATION: ACPI: AC Adapter [AC] (on-line)
+ TIME: 0.0002510000000000012
+
+OPERATION: system 00:00: [mem 0xfed1c000-0xfed1ffff] has been reserved
+ TIME: 0.000246000000000024
+
+OPERATION: sdhci-pci 0000:86:09.1: Will use DMA mode even though HW doesn't fully claim to support it.
+ TIME: 0.0002450000000004948
+
+OPERATION: iwlwifi 0000:03:00.0: can't disable ASPM; OS doesn't have ASPM control
+ TIME: 0.000240000000005125
+
+OPERATION: scsi host1: ahci
+ TIME: 0.00023900000000054433
+
+OPERATION: scsi host5: ahci
+ TIME: 0.00023899999999965615
+
+OPERATION: pci 0000:03:00.0: PME# supported from D0 D3hot D3cold
+ TIME: 0.00023600000000001398
+
+OPERATION: scsi host3: ahci
+ TIME: 0.00022699999999975518
+
+OPERATION: scsi host4: ahci
+ TIME: 0.00022600000000050358
+
+OPERATION: scsi host2: ahci
+ TIME: 0.0002259999999996154
+
+OPERATION: pci 0000:00:1f.2: [8086:2929] type 00 class 0x010601
+ TIME: 0.00020800000000004149
+
+OPERATION: sr 1:0:0:0: Attached scsi CD-ROM sr0
+ TIME: 0.00020299999999995322
+
+OPERATION: pnp: PnP ACPI: found 8 devices
+ TIME: 0.00018599999999996397
+
+OPERATION:  excluding 0x400-0x47f 0x4d0-0x4d7
+ TIME: 0.0001829999999998222
+
+OPERATION: pci 0000:00:19.0: [8086:10f5] type 00 class 0x020000
+ TIME: 0.00016900000000003024
+
+OPERATION: AppArmor: AppArmor Filesystem Enabled
+ TIME: 0.00016899999999997473
+
+OPERATION: pci 0000:00:1f.0: [8086:2917] type 00 class 0x060100
+ TIME: 0.00016800000000000148
+
+OPERATION: Scanning for low memory corruption every 60 seconds
+ TIME: 0.00016799999999994597
+
+OPERATION: pci 0000:01:00.0: [1002:95c4] type 00 class 0x030000
+ TIME: 0.00016300000000002424
+
+OPERATION: NET: Registered protocol family 2
+ TIME: 0.00015899999999990921
+
+OPERATION: pci 0000:00:1a.7: [8086:293c] type 00 class 0x0c0320
+ TIME: 0.00015199999999998548
+
+OPERATION: pci 0000:00:1d.7: [8086:293a] type 00 class 0x0c0320
+ TIME: 0.00015199999999998548
+
+OPERATION: pci 0000:00:1a.1: [8086:2938] type 00 class 0x0c0300
+ TIME: 0.00015100000000001224
+
+OPERATION: pci 0000:00:1a.2: [8086:2939] type 00 class 0x0c0300
+ TIME: 0.00014599999999997948
+
+OPERATION: pci 0000:00:1d.2: [8086:2936] type 00 class 0x0c0300
+ TIME: 0.00014500000000000624
+
+OPERATION: pci 0000:00:1d.1: [8086:2935] type 00 class 0x0c0300
+ TIME: 0.00013900000000000023
+
+OPERATION: pci 0000:03:00.0: [8086:4236] type 00 class 0x028000
+ TIME: 0.00013900000000000023
+
+OPERATION: ahci 0000:00:1f.2: version 3.0
+ TIME: 0.0001380000000006376
+
+OPERATION: NetLabel: Initializing
+ TIME: 0.00013799999999997148
+
+OPERATION: pci 0000:00:1c.2: PCI bridge to [bus 04-44]
+ TIME: 0.000136000000000025
+
+OPERATION: pcmcia 0.0: pcmcia: registering new device pcmcia0.0 (IRQ: 3)
+ TIME: 0.0001339999999956376
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: IO port probe 0x820-0x8ff:
+ TIME: 0.0001279999999965753
+
+OPERATION: pci 0000:00:03.3: [8086:2a47] type 00 class 0x070002
+ TIME: 0.00012300000000003974
+
+OPERATION: ATOM BIOS: HP
+ TIME: 0.00011999999999989797
+
+OPERATION: pci 0000:00:1c.4: PCI bridge to [bus 45-85]
+ TIME: 0.00011900000000003574
+
+OPERATION: devtmpfs: initialized
+ TIME: 0.00011800000000000699
+
+OPERATION: pci 0000:00:1c.4: [8086:2948] type 01 class 0x060400
+ TIME: 0.00011800000000000699
+
+OPERATION: pci 0000:00:1d.0: [8086:2934] type 00 class 0x0c0300
+ TIME: 0.00011800000000000699
+
+OPERATION: pci 0000:00:1c.1: [8086:2942] type 01 class 0x060400
+ TIME: 0.00011700000000003374
+
+OPERATION: pci 0000:00:1c.2: [8086:2944] type 01 class 0x060400
+ TIME: 0.00011700000000003374
+
+OPERATION: pci 0000:00:01.0: [8086:2a41] type 01 class 0x060400
+ TIME: 0.00011499999999997623
+
+OPERATION: system 00:02: [mem 0xfed00000-0xfed003ff] has been reserved
+ TIME: 0.00011400000000000299
+
+OPERATION: pci 0000:00:1c.0: [8086:2940] type 01 class 0x060400
+ TIME: 0.00011299999999997423
+
+OPERATION: pci 0000:00:03.0: [8086:2a44] type 00 class 0x078000
+ TIME: 0.00011100000000002774
+
+OPERATION: pci 0000:00:1b.0: [8086:293e] type 00 class 0x040300
+ TIME: 0.00010999999999999899
+
+OPERATION: e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+ TIME: 0.00010999999999999899
+
+OPERATION: pci 0000:00:1a.0: [8086:2937] type 00 class 0x0c0300
+ TIME: 0.00010799999999999699
+
+OPERATION: pci 0000:00:1e.0: [8086:2448] type 01 class 0x060401
+ TIME: 0.00010699999999996823
+
+OPERATION: vesafb: mode is 1024x768x32, linelength=4096, pages=0
+ TIME: 0.00010500000000002174
+
+OPERATION: fbcon: radeondrmfb (fb0) is primary device
+ TIME: 0.00010400000000032605
+
+OPERATION: pci 0000:00:03.2: [8086:2a46] type 00 class 0x010185
+ TIME: 9.999999999998899e-05
+
+OPERATION: IP idents hash table entries: 16384 (order: 5, 131072 bytes)
+ TIME: 9.80000000000425e-05
+
+OPERATION: pnp 00:05: Plug and Play ACPI device, IDs PNP0401 (active)
+ TIME: 9.700000000001374e-05
+
+OPERATION: system 00:03: [io  0x0200-0x027f] has been reserved
+ TIME: 9.100000000000774e-05
+
+OPERATION: workingset: timestamp_bits=14 max_order=20 bucket_order=6
+ TIME: 9.000000000014552e-05
+
+OPERATION: pci 0000:00:1d.7: PME# supported from D0 D3hot D3cold
+ TIME: 9.00000000000345e-05
+
+OPERATION: pci 0000:00:1a.7: PME# supported from D0 D3hot D3cold
+ TIME: 8.999999999997899e-05
+
+OPERATION: pci 0000:00:1c.0: PME# supported from D0 D3hot D3cold
+ TIME: 8.999999999997899e-05
+
+OPERATION: pci 0000:00:1c.1: PME# supported from D0 D3hot D3cold
+ TIME: 8.999999999997899e-05
+
+OPERATION: pci 0000:00:1c.2: PME# supported from D0 D3hot D3cold
+ TIME: 8.999999999997899e-05
+
+OPERATION: pci 0000:00:1c.4: PME# supported from D0 D3hot D3cold
+ TIME: 8.999999999997899e-05
+
+OPERATION: pci 0000:00:1e.0: PCI bridge to [bus 86-87] (subtractive decode)
+ TIME: 8.60000000000305e-05
+
+OPERATION: [drm] GART: num cpu pages 131072, num gpu pages 131072
+ TIME: 8.499999999944663e-05
+
+OPERATION: io scheduler cfq registered (default)
+ TIME: 8.300000000005525e-05
+
+OPERATION: pci 0000:86:09.0: supports D1 D2
+ TIME: 8.299999999999974e-05
+
+OPERATION: pci 0000:00:01.0: PCI bridge to [bus 01]
+ TIME: 8.20000000000265e-05
+
+OPERATION: pci 0000:86:09.1: supports D1 D2
+ TIME: 8.199999999997098e-05
+
+OPERATION: pci 0000:00:1b.0: PME# supported from D0 D3hot D3cold
+ TIME: 8.100000000005325e-05
+
+OPERATION: input: HDA Intel Line as /devices/pci0000:00/0000:00:1b.0/sound/card0/input19
+ TIME: 8.000000000407681e-05
+
+OPERATION: sr 1:0:0:0: Attached scsi generic sg1 type 5
+ TIME: 7.899999999949614e-05
+
+OPERATION: [drm] radeon: power management initialized
+ TIME: 7.800000000024454e-05
+
+OPERATION: input: HDA Intel Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input20
+ TIME: 7.699999999744023e-05
+
+OPERATION: sd 0:0:0:0: [sda] 312581808 512-byte logical blocks: (160 GB/149 GiB)
+ TIME: 7.49999999998252e-05
+
+OPERATION: pci 0000:86:09.0: [1180:0832] type 00 class 0x0c0010
+ TIME: 7.399999999996298e-05
+
+OPERATION: input: HDA Intel Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input21
+ TIME: 7.399999999790907e-05
+
+OPERATION: ata1: SATA max UDMA/133 abar m2048@0xd0426000 port 0xd0426100 irq 31
+ TIME: 7.100000000015427e-05
+
+OPERATION: pci 0000:00:19.0: PME# supported from D0 D3hot D3cold
+ TIME: 7.00000000000145e-05
+
+OPERATION: PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+ TIME: 6.900000000009676e-05
+
+OPERATION: ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 7 11 12 14 15) *10
+ TIME: 6.900000000004125e-05
+
+OPERATION: ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 7 10 12 14 15) *11
+ TIME: 6.899999999998574e-05
+
+OPERATION: ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 7 11 12 14 15) *10
+ TIME: 6.899999999998574e-05
+
+OPERATION: ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 7 *10 12 14 15)
+ TIME: 6.899999999998574e-05
+
+OPERATION: ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 7 *10 12 14 15)
+ TIME: 6.80000000000125e-05
+
+OPERATION: ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 7 11 12 14 15) *10
+ TIME: 6.699999999998374e-05
+
+OPERATION: ACPI: Enabled 13 GPEs in block 00 to 3F
+ TIME: 6.60000000000105e-05
+
+OPERATION: pci 0000:01:00.0: supports D1 D2
+ TIME: 6.60000000000105e-05
+
+OPERATION: ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 7 11 12 14 15) *0, disabled.
+ TIME: 6.60000000000105e-05
+
+OPERATION: pci 0000:86:09.2: [1180:0476] type 02 class 0x060700
+ TIME: 6.500000000003725e-05
+
+OPERATION: [TTM] Zone  kernel: Available graphics memory: 391868 kiB
+ TIME: 6.4000000000064e-05
+
+OPERATION: ata7: PATA max PIO0 cmd 0x2100 ctl 0x210e irq 3
+ TIME: 5.9000000000253294e-05
+
+OPERATION: pci 0000:00:01.0: PME# supported from D0 D3hot D3cold
+ TIME: 5.6000000000000494e-05
+
+OPERATION: pci 0000:00:03.0: PME# supported from D0 D3hot D3cold
+ TIME: 5.6000000000000494e-05
+
+OPERATION: pci 0000:03:00.0: reg 0x10: [mem 0xd0100000-0xd0101fff 64bit]
+ TIME: 5.3999999999998494e-05
+
+OPERATION: pci 0000:86:09.1: [1180:0822] type 00 class 0x080500
+ TIME: 5.3999999999998494e-05
+
+OPERATION: pnp: PnP ACPI init
+ TIME: 5.3999999999998494e-05
+
+OPERATION: radeon 0000:01:00.0: WB enabled
+ TIME: 5.2999999999414626e-05
+
+OPERATION: radeon 0000:01:00.0: radeon: using MSI.
+ TIME: 5.200000000016303e-05
+
+OPERATION: pci_bus 0000:87: busn_res: [bus 87] end can not be updated to 8a
+ TIME: 5.1999999999996493e-05
+
+OPERATION: NET: Registered protocol family 1
+ TIME: 4.999999999999449e-05
+
+OPERATION: UDP hash table entries: 512 (order: 2, 16384 bytes)
+ TIME: 4.899999999996574e-05
+
+OPERATION: io scheduler noop registered
+ TIME: 4.8000000000048004e-05
+
+OPERATION: pci 0000:00:1f.2: PME# supported from D3hot
+ TIME: 4.799999999999249e-05
+
+OPERATION: pci 0000:00:1c.0: PCI bridge to [bus 02]
+ TIME: 4.700000000001925e-05
+
+OPERATION: Unpacking initramfs...
+ TIME: 4.700000000001925e-05
+
+OPERATION: pci 0000:00:1d.2: reg 0x20: [io  0x8020-0x803f]
+ TIME: 4.4000000000044004e-05
+
+OPERATION: pci 0000:00:1a.0: reg 0x20: [io  0x80c0-0x80df]
+ TIME: 4.399999999998849e-05
+
+OPERATION: pci 0000:00:1a.1: reg 0x20: [io  0x80a0-0x80bf]
+ TIME: 4.399999999998849e-05
+
+OPERATION: pci 0000:00:1d.0: reg 0x20: [io  0x8060-0x807f]
+ TIME: 4.399999999998849e-05
+
+OPERATION: pci 0000:00:1d.1: reg 0x20: [io  0x8040-0x805f]
+ TIME: 4.399999999998849e-05
+
+OPERATION: pciehp 0000:00:1c.2:pcie004: Slot #2 AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug+ Surprise+ Interlock- NoCompl- LLActRep+
+ TIME: 4.399999999993298e-05
+
+OPERATION: sd 0:0:0:0: [sda] Write Protect is off
+ TIME: 4.399999999993298e-05
+
+OPERATION: pci 0000:00:1a.2: reg 0x20: [io  0x8080-0x809f]
+ TIME: 4.300000000001525e-05
+
+OPERATION: pnp 00:04: Plug and Play ACPI device, IDs PNP0b00 (active)
+ TIME: 4.299999999995974e-05
+
+OPERATION: PCI: CLS 64 bytes, default 64
+ TIME: 4.199999999998649e-05
+
+OPERATION: pcieport 0000:00:1c.0: Signaling PME with IRQ 25
+ TIME: 4.099999999995774e-05
+
+OPERATION: VFS: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+ TIME: 4.0000000000040004e-05
+
+OPERATION: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+ TIME: 3.900000000001125e-05
+
+OPERATION: pci 0000:86:09.2: supports D1 D2
+ TIME: 3.8000000000038e-05
+
+OPERATION: pci 0000:01:00.0: reg 0x30: [mem 0xfffe0000-0xffffffff pref]
+ TIME: 3.799999999998249e-05
+
+OPERATION: raid6: .... xor() 5077 MB/s, rmw enabled
+ TIME: 3.799999999998249e-05
+
+OPERATION: pciehp 0000:00:01.0:pcie004: Slot(1): Card present
+ TIME: 3.6000000000147026e-05
+
+OPERATION: raid6: using ssse3x1 recovery algorithm
+ TIME: 3.500000000045134e-05
+
+OPERATION: sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+ TIME: 3.400000000031156e-05
+
+OPERATION: ACPI: (supports S0 S3 S4 S5)
+ TIME: 3.4000000000034e-05
+
+OPERATION: pnp 00:06: Plug and Play ACPI device, IDs PNP0303 (active)
+ TIME: 3.4000000000034e-05
+
+OPERATION: PCI: MMCONFIG for domain 0000 [bus 00-ff] at [mem 0xe0000000-0xefffffff] (base 0xe0000000)
+ TIME: 3.399999999997849e-05
+
+OPERATION: DMAR: Forcing write-buffer flush capability
+ TIME: 3.399999999997849e-05
+
+OPERATION: raid6: using algorithm sse2x2 gen() 4266 MB/s
+ TIME: 3.399999999942338e-05
+
+OPERATION: xor: using function: prefetch64-sse (10241.000 MB/sec)
+ TIME: 3.399999999942338e-05
+
+OPERATION: [drm] radeon: 128M of VRAM memory ready
+ TIME: 3.2000000000032e-05
+
+OPERATION: pcieport 0000:00:1c.2: Signaling PME with IRQ 27
+ TIME: 3.100000000011427e-05
+
+OPERATION: pciehp 0000:00:1c.4:pcie004: Slot #4 AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug+ Surprise+ Interlock- NoCompl- LLActRep+
+ TIME: 3.100000000011427e-05
+
+OPERATION: HPET: 4 timers in total, 0 timers will be used for per-cpu timer
+ TIME: 3.100000000000325e-05
+
+OPERATION: pnp 00:07: Plug and Play ACPI device, IDs SYN0147 SYN0100 SYN0002 PNP0f13 (active)
+ TIME: 3.100000000000325e-05
+
+OPERATION: pci_bus 0000:00: on NUMA node 0
+ TIME: 2.999999999997449e-05
+
+OPERATION: ahci 0000:00:1f.2: AHCI 0001.0200 32 slots 4 ports 3 Gbps 0x23 impl SATA mode
+ TIME: 2.899999999961267e-05
+
+OPERATION: [drm] radeon: irq initialized.
+ TIME: 2.800000000036107e-05
+
+OPERATION: TCP: Hash tables configured (established 8192 bind 8192)
+ TIME: 2.700000000011027e-05
+
+OPERATION: pciehp 0000:00:01.0:pcie004: Slot #1 AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug+ Surprise- Interlock- NoCompl+ LLActRep-
+ TIME: 2.6999999999999247e-05
+
+OPERATION: radeon 0000:01:00.0: VRAM: 128M 0x0000000000000000 - 0x0000000007FFFFFF (128M used)
+ TIME: 2.6999999999333113e-05
+
+OPERATION: pcieport 0000:00:1c.1: Signaling PME with IRQ 26
+ TIME: 2.6000000000081513e-05
+
+OPERATION: pciehp 0000:00:1c.1:pcie004: Slot #1 AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug+ Surprise+ Interlock- NoCompl- LLActRep+
+ TIME: 2.6000000000081513e-05
+
+OPERATION: pcieport 0000:00:1c.4: Signaling PME with IRQ 28
+ TIME: 2.599999999985947e-05
+
+OPERATION: e1000e 0000:00:19.0 eth0: MAC: 7, PHY: 8, PBA No: 1052FF-0FF
+ TIME: 2.5999999999193335e-05
+
+OPERATION: pci 0000:01:00.0: reg 0x10: [mem 0xc0000000-0xc7ffffff pref]
+ TIME: 2.399999999996849e-05
+
+OPERATION: pci 0000:00:1c.0: BAR 15: assigned [mem 0xd0500000-0xd06fffff 64bit pref]
+ TIME: 2.2999999999995246e-05
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: memory probe 0x0c0000-0x0fffff:
+ TIME: 2.200000000129876e-05
+
+OPERATION: pci 0000:00:1a.7: reg 0x10: [mem 0xd0426c00-0xd0426fff]
+ TIME: 2.2000000000022002e-05
+
+OPERATION: pci 0000:00:1d.7: reg 0x10: [mem 0xd0426800-0xd0426bff]
+ TIME: 2.199999999996649e-05
+
+OPERATION: vesafb: framebuffer at 0xc0000000, mapped to 0x(ptrval), using 3072k, total 3072k
+ TIME: 2.199999999996649e-05
+
+OPERATION: NET: Registered protocol family 31
+ TIME: 2.199999999419333e-05
+
+OPERATION: pci 0000:00:1b.0: reg 0x10: [mem 0xd0420000-0xd0423fff 64bit]
+ TIME: 2.0999999999993246e-05
+
+OPERATION: pci 0000:86:09.0: reg 0x10: [mem 0xc8001000-0xc80017ff]
+ TIME: 2.0000000000020002e-05
+
+OPERATION: pci 0000:86:09.1: reg 0x10: [mem 0xc8001900-0xc80019ff]
+ TIME: 2.0000000000020002e-05
+
+OPERATION: pci 0000:86:09.2: reg 0x10: [mem 0xc8000000-0xc8000fff]
+ TIME: 1.999999999996449e-05
+
+OPERATION: Key type blacklist registered
+ TIME: 1.999999999990898e-05
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: memory probe 0xa0000000-0xa0ffffff:
+ TIME: 1.9999999999242846e-05
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: memory probe 0x60000000-0x60ffffff:
+ TIME: 1.9000000001767603e-05
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: IO port probe 0xa00-0xaff:
+ TIME: 1.9000000001767603e-05
+
+OPERATION: pci 0000:00:19.0: reg 0x10: [mem 0xd0400000-0xd041ffff]
+ TIME: 1.8999999999991246e-05
+
+OPERATION: pci 0000:00:1f.2: reg 0x10: [io  0x8118-0x811f]
+ TIME: 1.8999999999991246e-05
+
+OPERATION: NetLabel:  unlabeled traffic allowed by default
+ TIME: 1.8999999999991246e-05
+
+OPERATION: TCP bind hash table entries: 8192 (order: 4, 65536 bytes)
+ TIME: 1.8999999999991246e-05
+
+OPERATION: Block layer SCSI generic (bsg) driver version 0.4 loaded (major 247)
+ TIME: 1.8999999999991246e-05
+
+OPERATION: ehci-pci 0000:00:1a.7: irq 19, io mem 0xd0426c00
+ TIME: 1.8999999999991246e-05
+
+OPERATION: cpuidle: using governor ladder
+ TIME: 1.8000000000018e-05
+
+OPERATION: pci 0000:00:03.0: reg 0x10: [mem 0xd0427000-0xd042700f 64bit]
+ TIME: 1.799999999996249e-05
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: IO port probe 0xc00-0xcf7:
+ TIME: 1.7999999997186933e-05
+
+OPERATION: bounce: pool size: 64 pages
+ TIME: 1.6000000000016e-05
+
+OPERATION: usb 3-1: New USB device found, idVendor=03f0, idProduct=171d
+ TIME: 1.5000000000320313e-05
+
+OPERATION: pci 0000:00:03.3: reg 0x10: [io  0x8120-0x8127]
+ TIME: 1.4999999999987246e-05
+
+OPERATION: psmouse serio4: synaptics: serio: Synaptics pass-through port at isa0060/serio4/input0
+ TIME: 1.4000000000180535e-05
+
+OPERATION: Bluetooth: SCO socket layer initialized
+ TIME: 1.4000000000180535e-05
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: memory probe 0xc8010000-0xc80fffff:
+ TIME: 1.3000000002705292e-05
+
+OPERATION: pci 0000:00:03.2: reg 0x10: [io  0x8130-0x8137]
+ TIME: 1.3000000000040757e-05
+
+OPERATION: libata version 3.00 loaded.
+ TIME: 1.3000000000040757e-05
+
+OPERATION: Performance Events: PEBS fmt0+, Core2 events, Intel PMU driver.
+ TIME: 1.3000000000013001e-05
+
+OPERATION: pci 0000:00:1c.0: bridge window [io  0x1000-0x0fff] to [bus 02] add_size 1000
+ TIME: 1.2999999999929734e-05
+
+OPERATION: pci 0000:86:09.2: BAR 15: assigned [mem 0xd4000000-0xd7ffffff pref]
+ TIME: 1.2999999999929734e-05
+
+OPERATION: pci 0000:00:00.0: [8086:2a40] type 00 class 0x060000
+ TIME: 1.2000000000012001e-05
+
+OPERATION: pci 0000:00:1c.1: BAR 15: assigned [mem 0xd0700000-0xd08fffff 64bit pref]
+ TIME: 1.2000000000012001e-05
+
+OPERATION: [drm] Loading RV620 Microcode
+ TIME: 1.1999999999900979e-05
+
+OPERATION: pci 0000:01:00.0: can't claim BAR 6 [mem 0xfffe0000-0xffffffff pref]: no compatible bridge window
+ TIME: 1.1000000000094268e-05
+
+OPERATION: pci 0000:86:09.0: proprietary Ricoh MMC controller disabled (via firewire function)
+ TIME: 1.1000000000038757e-05
+
+OPERATION: PCI: MMCONFIG at [mem 0xe0000000-0xefffffff] reserved in E820
+ TIME: 1.1000000000011001e-05
+
+OPERATION: ACPI: SSDT 0x00000000EC2F7C00 000275 (v01 PmRef  Cpu0Ist  00003000 INTL 20060912)
+ TIME: 1.0999999999983245e-05
+
+OPERATION: ACPI: EC: event unblocked
+ TIME: 1.0999999999983245e-05
+
+OPERATION: system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+ TIME: 1.0999999999983245e-05
+
+OPERATION: system 00:02: Plug and Play ACPI device, IDs PNP0103 PNP0c01 (active)
+ TIME: 1.0999999999983245e-05
+
+OPERATION: pci 0000:00:1c.2: BAR 15: assigned [mem 0xd0900000-0xd0afffff 64bit pref]
+ TIME: 1.0999999999983245e-05
+
+OPERATION: UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+ TIME: 1.0999999999983245e-05
+
+OPERATION: cdrom: Uniform CD-ROM driver Revision: 3.20
+ TIME: 1.0000000000509601e-05
+
+OPERATION: pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+ TIME: 1.0000000000065512e-05
+
+OPERATION: ehci-pci 0000:00:1d.7: irq 20, io mem 0xd0426800
+ TIME: 1.0000000000065512e-05
+
+OPERATION: ACPI: SSDT 0x00000000F480C800 00057B (v01 PmRef  Cpu0Cst  00003001 INTL 20060912)
+ TIME: 1.0000000000010001e-05
+
+OPERATION: pci 0000:01:00.0: reg 0x14: [io  0x7000-0x70ff]
+ TIME: 1.0000000000010001e-05
+
+OPERATION: pci 0000:01:00.0: reg 0x18: [mem 0xd0300000-0xd030ffff]
+ TIME: 1.0000000000010001e-05
+
+OPERATION: pci 0000:00:1c.4: BAR 15: assigned [mem 0xd0b00000-0xd0cfffff 64bit pref]
+ TIME: 9.99999999995449e-06
+
+OPERATION: [drm] UVD initialized successfully.
+ TIME: 9.999999999621423e-06
+
+OPERATION: system 00:03: Plug and Play ACPI device, IDs PNP0c02 (active)
+ TIME: 9.000000000036756e-06
+
+OPERATION: pci 0000:00:1c.2: PCI bridge to [bus 04-44]
+ TIME: 9.000000000036756e-06
+
+OPERATION: ACPI: SSDT 0x00000000EC241800 0001D7 (v01 PmRef  ApIst    00003000 INTL 20060912)
+ TIME: 9.000000000009e-06
+
+OPERATION: ACPI: SSDT 0x00000000EC274180 00008D (v01 PmRef  ApCst    00003000 INTL 20060912)
+ TIME: 9.000000000009e-06
+
+OPERATION: acpi PNP0A08:00: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI]
+ TIME: 8.999999999981245e-06
+
+OPERATION: pci 0000:00:1c.1:   bridge window [mem 0xd0100000-0xd01fffff]
+ TIME: 8.999999999981245e-06
+
+OPERATION: ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x16, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+ TIME: 8.999999999981245e-06
+
+OPERATION:  excluding 0xc0000-0xfffff
+ TIME: 8.999999998593466e-06
+
+OPERATION:  excluding 0xa0000000-0xa0ffffff
+ TIME: 8.999999998593466e-06
+
+OPERATION:  excluding 0x60000000-0x60ffffff
+ TIME: 8.999999998593466e-06
+
+OPERATION: e1000e 0000:00:19.0 eth0: Intel(R) PRO/1000 Network Connection
+ TIME: 8.000000000230045e-06
+
+OPERATION: pci 0000:00:19.0: reg 0x14: [mem 0xd0424000-0xd0424fff]
+ TIME: 8.000000000008e-06
+
+OPERATION: pci 0000:00:1f.2: reg 0x24: [mem 0xd0426000-0xd04267ff]
+ TIME: 8.000000000008e-06
+
+OPERATION: pci 0000:01:00.0: enabling Extended Tags
+ TIME: 8.000000000008e-06
+
+OPERATION: pci 0000:00:1c.0:   bridge window [mem 0xd0200000-0xd02fffff]
+ TIME: 8.000000000008e-06
+
+OPERATION: pci 0000:00:1c.0: PCI bridge to [bus 02]
+ TIME: 8.000000000008e-06
+
+OPERATION: pci 0000:00:1c.1: PCI bridge to [bus 03]
+ TIME: 8.000000000008e-06
+
+OPERATION: pci 0000:00:1c.4: PCI bridge to [bus 45-85]
+ TIME: 8.000000000008e-06
+
+OPERATION: Monitor-Mwait will be used to enter C-2 state
+ TIME: 8.000000000008e-06
+
+OPERATION: [drm] vram apper at 0xC0000000
+ TIME: 7.999999999341867e-06
+
+OPERATION: pci 0000:86:09.2: BAR 16: assigned [mem 0xd8000000-0xdbffffff]
+ TIME: 7.000000000090267e-06
+
+OPERATION: pci 0000:86:09.2:   bridge window [mem 0xd4000000-0xd7ffffff pref]
+ TIME: 7.000000000090267e-06
+
+OPERATION: [drm] Detected VRAM RAM=128M, BAR=128M
+ TIME: 7.000000000090267e-06
+
+OPERATION: ata1.00: 312581808 sectors, multi 16: LBA48 NCQ (depth 31/32)
+ TIME: 7.000000000090267e-06
+
+OPERATION: ata2.00: ATAPI: Optiarc DVD RW AD-7561S, AH03, max UDMA/100
+ TIME: 7.000000000090267e-06
+
+OPERATION: ata2.00: configured for UDMA/100
+ TIME: 7.000000000090267e-06
+
+OPERATION: acpi PNP0A08:00: FADT indicates ASPM is unsupported, using BIOS configuration
+ TIME: 7.000000000034756e-06
+
+OPERATION: pci 0000:00:1f.2: reg 0x1c: [io  0x8138-0x813b]
+ TIME: 7.000000000034756e-06
+
+OPERATION: PnPBIOS: Disabled by ACPI PNP
+ TIME: 7.000000000034756e-06
+
+OPERATION: pci 0000:00:03.3: reg 0x14: [mem 0xd0425000-0xd0425fff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:19.0: reg 0x18: [io  0x80e0-0x80ff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1f.2: reg 0x14: [io  0x813c-0x813f]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1f.2: reg 0x18: [io  0x8110-0x8117]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1f.2: reg 0x20: [io  0x8000-0x801f]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1c.2:   bridge window [io  0x5000-0x6fff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1c.4:   bridge window [io  0x3000-0x4fff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [io  0x2000-0x2fff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1c.0: BAR 13: assigned [io  0x9000-0x9fff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1c.0:   bridge window [mem 0xd0200000-0xd02fffff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1c.1:   bridge window [mem 0xd0100000-0xd01fffff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:00:1c.2:   bridge window [mem 0xcc100000-0xd00fffff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: pci 0000:86:09.2:   bridge window [mem 0xd8000000-0xdbffffff]
+ TIME: 6.999999999979245e-06
+
+OPERATION: [TTM] Initializing DMA pool allocator
+ TIME: 6.999999999202089e-06
+
+OPERATION: [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+ TIME: 6.000000000838668e-06
+
+OPERATION: pci 0000:00:1c.1: BAR 13: assigned [io  0xa000-0xafff]
+ TIME: 6.000000000061512e-06
+
+OPERATION: pci 0000:00:01.0: PCI bridge to [bus 01]
+ TIME: 6.000000000061512e-06
+
+OPERATION: pci 0000:00:1c.4:   bridge window [mem 0xd0b00000-0xd0cfffff 64bit pref]
+ TIME: 6.000000000061512e-06
+
+OPERATION: ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x16, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+ TIME: 6.0000000000060005e-06
+
+OPERATION: pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+ TIME: 6.0000000000060005e-06
+
+OPERATION: pci_bus 0000:00: root bus resource [bus 00-ff]
+ TIME: 6.0000000000060005e-06
+
+OPERATION: system 00:00: [mem 0xfed10000-0xfed13fff] has been reserved
+ TIME: 6.0000000000060005e-06
+
+OPERATION: system 00:03: [io  0x1000-0x1003] has been reserved
+ TIME: 6.0000000000060005e-06
+
+OPERATION: pci 0000:00:01.0:   bridge window [io  0x7000-0x7fff]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:86:09.0: MMC cards are now supported by standard SDHCI controller
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:01:00.0: BAR 6: assigned [mem 0xd0320000-0xd033ffff pref]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:00:01.0:   bridge window [mem 0xd0300000-0xd03fffff]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:00:1c.0:   bridge window [mem 0xd0500000-0xd06fffff 64bit pref]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:00:1c.2:   bridge window [mem 0xd0900000-0xd0afffff 64bit pref]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:00:1c.4:   bridge window [mem 0xc8100000-0xcc0fffff]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:86:09.2:   bridge window [io  0x2400-0x24ff]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:00:1e.0: PCI bridge to [bus 86-87]
+ TIME: 5.999999999950489e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [mem 0xc8000000-0xc80fffff]
+ TIME: 5.999999999950489e-06
+
+OPERATION: software IO TLB: mapped [mem 0x2ca9b000-0x30a9b000] (64MB)
+ TIME: 5.999999999950489e-06
+
+OPERATION: radeon 0000:01:00.0: GTT: 512M 0x0000000008000000 - 0x0000000027FFFFFF
+ TIME: 5.999999999950489e-06
+
+OPERATION: radeon 0000:01:00.0: fence driver on ring 0 use gpu addr 0x0000000008000c00 and cpu addr 0x(ptrval)
+ TIME: 5.999999999950489e-06
+
+OPERATION: ahci 0000:00:1f.2: flags: 64bit ncq sntf stag pm led clo pio slum part ccc ems sxs 
+ TIME: 5.999999999950489e-06
+
+OPERATION: ata2: SATA max UDMA/133 abar m2048@0xd0426000 port 0xd0426180 irq 31
+ TIME: 5.999999999950489e-06
+
+OPERATION: ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+ TIME: 5.999999999062311e-06
+
+OPERATION: ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+ TIME: 5.000000001587068e-06
+
+OPERATION: yenta_cardbus 0000:86:09.2: pcmcia: parent PCI bridge window: [io  0x2000-0x2fff]
+ TIME: 5.000000001587068e-06
+
+OPERATION: audit: type=1400 audit(1676336626.168:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/lightdm/lightdm-guest-session//chromium" pid=909 comm="apparmor_parser"
+ TIME: 5.000000001587068e-06
+
+OPERATION: [drm] Radeon Display Connectors
+ TIME: 5.00000000069889e-06
+
+OPERATION: pci_bus 0000:00: root bus resource [mem 0xf0000000-0xfedfffff window]
+ TIME: 5.000000000032756e-06
+
+OPERATION: pci 0000:00:03.2: reg 0x1c: [io  0x8140-0x8143]
+ TIME: 5.000000000032756e-06
+
+OPERATION: ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+ TIME: 5.000000000032756e-06
+
+OPERATION: system 00:00: [mem 0xfec00000-0xfec00fff] could not be reserved
+ TIME: 5.000000000032756e-06
+
+OPERATION: system 00:03: [io  0x0400-0x047f] has been reserved
+ TIME: 5.000000000032756e-06
+
+OPERATION: pci 0000:00:01.0:   bridge window [mem 0xc0000000-0xc7ffffff 64bit pref]
+ TIME: 5.000000000032756e-06
+
+OPERATION: pci 0000:00:1c.1:   bridge window [io  0xa000-0xafff]
+ TIME: 5.000000000032756e-06
+
+OPERATION: pci 0000:00:1c.1:   bridge window [mem 0xd0700000-0xd08fffff 64bit pref]
+ TIME: 5.000000000032756e-06
+
+OPERATION: pci 0000:00:1c.4:   bridge window [io  0x3000-0x4fff]
+ TIME: 5.000000000032756e-06
+
+OPERATION: pci 0000:86:09.2: BAR 14: assigned [io  0x2400-0x24ff]
+ TIME: 5.000000000032756e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [io  0x2000-0x2fff]
+ TIME: 5.000000000032756e-06
+
+OPERATION: tsc: Marking TSC unstable due to TSC halts in idle
+ TIME: 5.000000000032756e-06
+
+OPERATION: ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+ TIME: 4.999999999977245e-06
+
+OPERATION: ACPI: Interpreter enabled
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci_bus 0000:00: root bus resource [mem 0xc0000000-0xdfffffff window]
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci_bus 0000:00: root bus resource [mem 0xfee01000-0xffffffff window]
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci 0000:00:03.2: reg 0x14: [io  0x8144-0x8147]
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci 0000:00:03.2: reg 0x18: [io  0x8128-0x812f]
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci 0000:00:03.2: reg 0x20: [io  0x8100-0x810f]
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [io  0x0000-0x0cf7 window] (subtractive decode)
+ TIME: 4.999999999977245e-06
+
+OPERATION: system 00:00: [mem 0xfed18000-0xfed18fff] has been reserved
+ TIME: 4.999999999977245e-06
+
+OPERATION: system 00:00: [mem 0xfed19000-0xfed19fff] has been reserved
+ TIME: 4.999999999977245e-06
+
+OPERATION: system 00:00: [mem 0xfed20000-0xfed3ffff] has been reserved
+ TIME: 4.999999999977245e-06
+
+OPERATION: system 00:03: [io  0x1010-0x101f] has been reserved
+ TIME: 4.999999999977245e-06
+
+OPERATION: pci 0000:86:09.2: BAR 13: assigned [io  0x2000-0x20ff]
+ TIME: 4.999999999921734e-06
+
+OPERATION: pciehp 0000:00:1c.0:pcie004: Slot #0 AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug+ Surprise+ Interlock- NoCompl- LLActRep+
+ TIME: 4.999999999810711e-06
+
+OPERATION: ata3: DUMMY
+ TIME: 4.999999999810711e-06
+
+OPERATION: sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+ TIME: 4.999999999810711e-06
+
+OPERATION: audit: type=1400 audit(1676336626.172:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=912 comm="apparmor_parser"
+ TIME: 4.999999994481641e-06
+
+OPERATION: ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000053B (\GPIO) (20170831/utaddress-247)
+ TIME: 4.0000000041118255e-06
+
+OPERATION: [TTM] Initializing pool allocator
+ TIME: 4.000000000559112e-06
+
+OPERATION: [drm] radeon: 512M of GTT memory ready.
+ TIME: 4.000000000559112e-06
+
+OPERATION: vesafb: Truecolor: size=0:8:8:8, shift=0:16:8:0
+ TIME: 4.000000000115023e-06
+
+OPERATION: ACPI: EC: interrupt blocked
+ TIME: 4.000000000004e-06
+
+OPERATION: pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+ TIME: 4.000000000004e-06
+
+OPERATION: pci 0000:00:1e.0: bridge has subordinate 87 but max busn 8a
+ TIME: 4.000000000004e-06
+
+OPERATION: NetLabel:  domain hash size = 128
+ TIME: 4.000000000004e-06
+
+OPERATION: system 00:00: [mem 0xe0000000-0xefffffff] has been reserved
+ TIME: 4.000000000004e-06
+
+OPERATION: system 00:00: [mem 0xfed45000-0xfed8ffff] has been reserved
+ TIME: 4.000000000004e-06
+
+OPERATION: system 00:03: [io  0xffff] has been reserved
+ TIME: 4.000000000004e-06
+
+OPERATION: system 00:03: [io  0xef80-0xef9f] has been reserved
+ TIME: 4.000000000004e-06
+
+OPERATION: pci 0000:00:01.0:   bridge window [io  0x7000-0x7fff]
+ TIME: 4.000000000004e-06
+
+OPERATION: pci 0000:00:1c.0:   bridge window [io  0x9000-0x9fff]
+ TIME: 4.000000000004e-06
+
+OPERATION: pci 0000:00:1c.2:   bridge window [io  0x5000-0x6fff]
+ TIME: 4.000000000004e-06
+
+OPERATION: pci 0000:86:09.2: CardBus bridge to [bus 87]
+ TIME: 4.000000000004e-06
+
+OPERATION: pci 0000:86:09.2:   bridge window [io  0x2000-0x20ff]
+ TIME: 4.000000000004e-06
+
+OPERATION: system 00:03: [io  0x0500-0x057f] has been reserved
+ TIME: 3.999999999948489e-06
+
+OPERATION: Asymmetric key parser 'x509' registered
+ TIME: 3.999999999892978e-06
+
+OPERATION: vesafb: scrolling: redraw
+ TIME: 3.999999999892978e-06
+
+OPERATION: Using IPI No-Shortcut mode
+ TIME: 3.9999999996709334e-06
+
+OPERATION: [TTM] Zone highmem: Available graphics memory: 1984524 kiB
+ TIME: 3.9999999996709334e-06
+
+OPERATION: radeon 0000:01:00.0: radeon: MSI limited to 32-bit
+ TIME: 3.9999999996709334e-06
+
+OPERATION: [drm]   Encoders:
+ TIME: 3.9999999996709334e-06
+
+OPERATION: [drm]   Encoders:
+ TIME: 3.9999999996709334e-06
+
+OPERATION: Bluetooth: HCI socket layer initialized
+ TIME: 3.999999997006398e-06
+
+OPERATION: audit: type=1400 audit(1676336625.780:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-cgns" pid=910 comm="apparmor_parser"
+ TIME: 3.999999997006398e-06
+
+OPERATION: Bluetooth: BNEP socket layer initialized
+ TIME: 3.999999997006398e-06
+
+OPERATION: [drm] fb depth is 24
+ TIME: 3.0000000013075123e-06
+
+OPERATION: [drm] RAM width 64bits DDR
+ TIME: 3.000000000419334e-06
+
+OPERATION: ata6: SATA max UDMA/133 abar m2048@0xd0426000 port 0xd0426380 irq 31
+ TIME: 3.000000000419334e-06
+
+OPERATION: [drm]   LVDS-1
+ TIME: 3.000000000419334e-06
+
+OPERATION: [drm] Connector 1:
+ TIME: 3.000000000419334e-06
+
+OPERATION: [drm]   DDC: 0x7e40 0x7e40 0x7e44 0x7e44 0x7e48 0x7e48 0x7e4c 0x7e4c
+ TIME: 3.000000000419334e-06
+
+OPERATION: [drm]     CRT1: INTERNAL_KLDSCP_DAC1
+ TIME: 3.000000000419334e-06
+
+OPERATION: [drm]   DDC: 0x7e60 0x7e60 0x7e64 0x7e64 0x7e68 0x7e68 0x7e6c 0x7e6c
+ TIME: 3.000000000419334e-06
+
+OPERATION: pci 0000:00:1c.1: bridge window [io  0x1000-0x0fff] to [bus 03] add_size 1000
+ TIME: 3.000000000086267e-06
+
+OPERATION: DMAR: Disabling IOMMU for graphics on this chipset
+ TIME: 3.000000000030756e-06
+
+OPERATION: pci 0000:00:01.0:   bridge window [mem 0xd0300000-0xd03fffff]
+ TIME: 3.000000000030756e-06
+
+OPERATION: pci 0000:00:1c.4:   bridge window [mem 0xc8100000-0xcc0fffff]
+ TIME: 3.000000000030756e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [mem 0xc8000000-0xc80fffff]
+ TIME: 3.000000000030756e-06
+
+OPERATION: ACPI: Using IOAPIC for interrupt routing
+ TIME: 2.9999999999752447e-06
+
+OPERATION: pci 0000:00:01.0:   bridge window [mem 0xc0000000-0xc7ffffff 64bit pref]
+ TIME: 2.9999999999752447e-06
+
+OPERATION: pci 0000:00:1c.2:   bridge window [mem 0xcc100000-0xd00fffff]
+ TIME: 2.9999999999752447e-06
+
+OPERATION: pci 0000:00:1c.0: bridge window [mem 0x00100000-0x000fffff 64bit pref] to [bus 02] add_size 200000 add_align 100000
+ TIME: 2.9999999999752447e-06
+
+OPERATION: pci 0000:00:1c.2: bridge window [mem 0x00100000-0x000fffff 64bit pref] to [bus 04-44] add_size 200000 add_align 100000
+ TIME: 2.9999999999752447e-06
+
+OPERATION: io scheduler deadline registered
+ TIME: 2.9999999999752447e-06
+
+OPERATION: [drm] Driver supports precise vblank timestamp query.
+ TIME: 2.9999999995311555e-06
+
+OPERATION: ata5: DUMMY
+ TIME: 2.9999999995311555e-06
+
+OPERATION: [drm] Connector 0:
+ TIME: 2.9999999995311555e-06
+
+OPERATION: [drm]   VGA-1
+ TIME: 2.9999999995311555e-06
+
+OPERATION: [drm] Connector 2:
+ TIME: 2.9999999995311555e-06
+
+OPERATION: [drm]   HPD1
+ TIME: 2.9999999995311555e-06
+
+OPERATION: [drm] size 4096000
+ TIME: 2.9999999995311555e-06
+
+OPERATION: [drm]    pitch is 5120
+ TIME: 2.9999999995311555e-06
+
+OPERATION: Bluetooth: L2CAP socket layer initialized
+ TIME: 2.9999999995311555e-06
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0:    speaker_outs=1 (0x16/0x0/0x0/0x0/0x0)
+ TIME: 2.9999999995311555e-06
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0:      Internal Mic=0x15
+ TIME: 2.9999999995311555e-06
+
+OPERATION: ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+ TIME: 2.9999999995311555e-06
+
+OPERATION: ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000053B (\GPIO) (20170831/utaddress-247)
+ TIME: 2.9999999995311555e-06
+
+OPERATION: ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+ TIME: 2.9999999995311555e-06
+
+OPERATION: iwlwifi 0000:03:00.0: CONFIG_IWLWIFI_DEBUGFS enabled
+ TIME: 2.9999999995311555e-06
+
+OPERATION: audit: type=1400 audit(1676336625.780:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-with-mounting" pid=910 comm="apparmor_parser"
+ TIME: 2.9999999995311555e-06
+
+OPERATION: audit: type=1400 audit(1676336625.780:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-with-nesting" pid=910 comm="apparmor_parser"
+ TIME: 2.9999999995311555e-06
+
+OPERATION: audit: type=1400 audit(1676336626.172:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=912 comm="apparmor_parser"
+ TIME: 2.9999999995311555e-06
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0:    hp_outs=1 (0x11/0x0/0x0/0x0/0x0)
+ TIME: 2.0000000020559128e-06
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0:      Line=0x1c
+ TIME: 2.0000000020559128e-06
+
+OPERATION: iwlwifi 0000:03:00.0: Detected Intel(R) Ultimate N WiFi Link 5300 AGN, REV=0x24
+ TIME: 2.0000000020559128e-06
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: IO port probe 0x2000-0x2fff:
+ TIME: 2.0000000020559128e-06
+
+OPERATION: pcmcia_socket pcmcia_socket0: cs: memory probe 0xc8000000-0xc80fffff:
+ TIME: 2.0000000020559128e-06
+
+OPERATION: audit: type=1400 audit(1676336626.172:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=912 comm="apparmor_parser"
+ TIME: 2.0000000020559128e-06
+
+OPERATION: Bluetooth: BNEP filters: protocol multicast
+ TIME: 2.0000000020559128e-06
+
+OPERATION: usb 3-1: Product: HP Integrated Module
+ TIME: 2.000000000279556e-06
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 3
+ TIME: 2.000000000279556e-06
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 5
+ TIME: 2.000000000279556e-06
+
+OPERATION: ata4: DUMMY
+ TIME: 2.000000000279556e-06
+
+OPERATION: [drm]     LCD1: INTERNAL_KLDSCP_LVTMA
+ TIME: 2.000000000279556e-06
+
+OPERATION: [drm]   DVI-D-1
+ TIME: 2.000000000279556e-06
+
+OPERATION: [drm]     DFP1: INTERNAL_UNIPHY
+ TIME: 2.000000000279556e-06
+
+OPERATION: pci 0000:00:1c.4: bridge window [mem 0x00100000-0x000fffff 64bit pref] to [bus 45-85] add_size 200000 add_align 100000
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:00: resource 8 [mem 0xf0000000-0xfedfffff window]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:02: resource 0 [io  0x9000-0x9fff]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:03: resource 0 [io  0xa000-0xafff]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:04: resource 0 [io  0x5000-0x6fff]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:86: resource 1 [mem 0xc8000000-0xc80fffff]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:86: resource 5 [io  0x0d00-0xffff window]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:86: resource 8 [mem 0xf0000000-0xfedfffff window]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:87: resource 0 [io  0x2000-0x20ff]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci_bus 0000:87: resource 3 [mem 0xd8000000-0xdbffffff]
+ TIME: 2.0000000000575113e-06
+
+OPERATION: pci 0000:86:09.0: PME# supported from D0 D1 D2 D3hot D3cold
+ TIME: 2.000000000002e-06
+
+OPERATION: pci 0000:86:09.1: PME# supported from D0 D1 D2 D3hot D3cold
+ TIME: 2.000000000002e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [io  0x0d00-0xffff window] (subtractive decode)
+ TIME: 2.000000000002e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [mem 0xc0000000-0xdfffffff window] (subtractive decode)
+ TIME: 2.000000000002e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [mem 0xfee01000-0xffffffff window] (subtractive decode)
+ TIME: 2.000000000002e-06
+
+OPERATION: e820: reserve RAM buffer [mem 0xb9d70000-0xbbffffff]
+ TIME: 2.000000000002e-06
+
+OPERATION: e820: reserve RAM buffer [mem 0xbde92000-0xbfffffff]
+ TIME: 2.000000000002e-06
+
+OPERATION: e820: reserve RAM buffer [mem 0xbe000000-0xbfffffff]
+ TIME: 2.000000000002e-06
+
+OPERATION: NetLabel:  protocols = UNLABELED CIPSOv4 CALIPSO
+ TIME: 2.000000000002e-06
+
+OPERATION: pci 0000:86:09.2: PME# supported from D0 D1 D2 D3hot D3cold
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci 0000:00:1c.1: bridge window [mem 0x00100000-0x000fffff 64bit pref] to [bus 03] add_size 200000 add_align 100000
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:01: resource 0 [io  0x7000-0x7fff]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:01: resource 2 [mem 0xc0000000-0xc7ffffff 64bit pref]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:02: resource 2 [mem 0xd0500000-0xd06fffff 64bit pref]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:04: resource 1 [mem 0xcc100000-0xd00fffff]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:45: resource 0 [io  0x3000-0x4fff]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:45: resource 2 [mem 0xd0b00000-0xd0cfffff 64bit pref]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:86: resource 6 [mem 0x000a0000-0x000bffff window]
+ TIME: 1.999999999946489e-06
+
+OPERATION: pci_bus 0000:87: resource 2 [mem 0xd4000000-0xd7ffffff pref]
+ TIME: 1.999999999946489e-06
+
+OPERATION: usb 2-1: Product: USB 2.0 Hub
+ TIME: 1.9999999998354667e-06
+
+OPERATION: usb 2-1.3: new full-speed USB device number 4 using ehci-pci
+ TIME: 1.9999999993913775e-06
+
+OPERATION: [drm]   Encoders:
+ TIME: 1.9999999993913775e-06
+
+OPERATION: ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000053B (\GPIO) (20170831/utaddress-247)
+ TIME: 1.9999999949504854e-06
+
+OPERATION: Copyright(c) 2003- 2015 Intel Corporation
+ TIME: 1.9999999949504854e-06
+
+OPERATION: yenta_cardbus 0000:86:09.2: Socket status: 30000810
+ TIME: 1.9999999949504854e-06
+
+OPERATION:  excluding 0xc8000000-0xc800ffff
+ TIME: 1.9999999949504854e-06
+
+OPERATION: Bluetooth: HCI device and connection manager initialized
+ TIME: 1.00000000458067e-06
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0:    inputs:
+ TIME: 1.00000000458067e-06
+
+OPERATION: lpc_ich: Resource conflict(s) found affecting gpio_ich
+ TIME: 1.00000000458067e-06
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 4
+ TIME: 1.000000000139778e-06
+
+OPERATION: fb: switching to radeondrmfb from VESA VGA
+ TIME: 1.000000000139778e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [mem 0x000a0000-0x000bffff window] (subtractive decode)
+ TIME: 1.0000000000287557e-06
+
+OPERATION: e820: reserve RAM buffer [mem 0xb8f2a000-0xbbffffff]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: e820: reserve RAM buffer [mem 0xbdebf000-0xbfffffff]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:00: resource 9 [mem 0xfee01000-0xffffffff window]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:01: resource 1 [mem 0xd0300000-0xd03fffff]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:02: resource 1 [mem 0xd0200000-0xd02fffff]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:03: resource 2 [mem 0xd0700000-0xd08fffff 64bit pref]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:04: resource 2 [mem 0xd0900000-0xd0afffff 64bit pref]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:45: resource 1 [mem 0xc8100000-0xcc0fffff]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:86: resource 0 [io  0x2000-0x2fff]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:86: resource 7 [mem 0xc0000000-0xdfffffff window]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci_bus 0000:87: resource 1 [io  0x2400-0x24ff]
+ TIME: 1.0000000000287557e-06
+
+OPERATION: pci 0000:00:1e.0:   bridge window [mem 0xf0000000-0xfedfffff window] (subtractive decode)
+ TIME: 9.999999999732445e-07
+
+OPERATION: e820: reserve RAM buffer [mem 0xbc49f000-0xbfffffff]
+ TIME: 9.999999999732445e-07
+
+OPERATION: pci_bus 0000:00: resource 7 [mem 0xc0000000-0xdfffffff window]
+ TIME: 9.999999999177334e-07
+
+OPERATION: pci_bus 0000:03: resource 1 [mem 0xd0100000-0xd01fffff]
+ TIME: 9.999999999177334e-07
+
+OPERATION: pci_bus 0000:86: resource 4 [io  0x0000-0x0cf7 window]
+ TIME: 9.999999999177334e-07
+
+OPERATION: pci_bus 0000:86: resource 9 [mem 0xfee01000-0xffffffff window]
+ TIME: 9.999999999177334e-07
+
+OPERATION: platform eisa.0: Cannot allocate resource for EISA slot 6
+ TIME: 9.999999992515995e-07
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0:    mono: mono_out=0x0
+ TIME: 9.999999974752427e-07
+
+OPERATION: snd_hda_codec_analog hdaudioC0D0:      Mic=0x14
+ TIME: 9.999999974752427e-07
+
+OPERATION: ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000053B (\GPIO) (20170831/utaddress-247)
+ TIME: 9.999999974752427e-07
+
+OPERATION: iwlwifi 0000:03:00.0: CONFIG_IWLWIFI_DEVICE_TRACING enabled
+ TIME: 9.999999974752427e-07
+
+OPERATION: Linux version 4.15.0-204-generic (buildd@lcy02-amd64-117) (gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)) #215-Ubuntu SMP Fri Jan 20 18:24:46 UTC 2023 (Ubuntu 4.15.0-204.215-generic 4.15.18)
+ TIME: 0
+
+OPERATION: KERNEL supported cpus:
+ TIME: 0.0
+
+OPERATION:   Intel GenuineIntel
+ TIME: 0.0
+
+OPERATION:   AMD AuthenticAMD
+ TIME: 0.0
+
+OPERATION:   NSC Geode by NSC
+ TIME: 0.0
+
+OPERATION:   Cyrix CyrixInstead
+ TIME: 0.0
+
+OPERATION:   Centaur CentaurHauls
+ TIME: 0.0
+
+OPERATION:   Transmeta GenuineTMx86
+ TIME: 0.0
+
+OPERATION:   Transmeta TransmetaCPU
+ TIME: 0.0
+
+OPERATION:   UMC UMC UMC UMC
+ TIME: 0.0
+
+OPERATION: Disabled fast string operations
+ TIME: 0.0
+
+OPERATION: x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+ TIME: 0.0
+
+OPERATION: x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+ TIME: 0.0
+
+OPERATION: x86/fpu: Enabled xstate features 0x3, context size is 576 bytes, using 'standard' format.
+ TIME: 0.0
+
+OPERATION: e820: BIOS-provided physical RAM map:
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000000ef000-0x00000000000fffff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x0000000000100000-0x00000000b8f29fff] usable
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000b8f2a000-0x00000000b8f2bfff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000b8f2c000-0x00000000b9d6ffff] usable
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000b9d70000-0x00000000b9d7ffff] ACPI NVS
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000b9d80000-0x00000000bc49efff] usable
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bc49f000-0x00000000bc69efff] ACPI NVS
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bc69f000-0x00000000bde91fff] usable
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bde92000-0x00000000bde99fff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bde9a000-0x00000000bdebefff] usable
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bdebf000-0x00000000bdecefff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bdecf000-0x00000000bdfcefff] ACPI NVS
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bdfcf000-0x00000000bdffefff] ACPI data
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000bdfff000-0x00000000bdffffff] usable
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000be000000-0x00000000bfffffff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000e0000000-0x00000000efffffff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000fed10000-0x00000000fed13fff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000fed18000-0x00000000fed19fff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000fed1c000-0x00000000fed1ffff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x00000000ffe80000-0x00000000ffffffff] reserved
+ TIME: 0.0
+
+OPERATION: BIOS-e820: [mem 0x0000000100000000-0x000000013bffffff] usable
+ TIME: 0.0
+
+OPERATION: NX (Execute Disable) protection: active
+ TIME: 0.0
+
+OPERATION: SMBIOS 2.4 present.
+ TIME: 0.0
+
+OPERATION: DMI: Hewlett-Packard HP EliteBook 6930p/30DC, BIOS 68PCD Ver. F.19 06/08/2010
+ TIME: 0.0
+
+OPERATION: e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+ TIME: 0.0
+
+OPERATION: e820: remove [mem 0x000a0000-0x000fffff] usable
+ TIME: 0.0
+
+OPERATION: e820: last_pfn = 0x13c000 max_arch_pfn = 0x1000000
+ TIME: 0.0
+
+OPERATION: MTRR default type: uncachable
+ TIME: 0.0
+
+OPERATION: MTRR fixed ranges enabled:
+ TIME: 0.0
+
+OPERATION:   00000-9FFFF write-back
+ TIME: 0.0
+
+OPERATION:   A0000-BFFFF uncachable
+ TIME: 0.0
+
+OPERATION:   C0000-FFFFF write-protect
+ TIME: 0.0
+
+OPERATION: MTRR variable ranges enabled:
+ TIME: 0.0
+
+OPERATION:   0 base 0FFE00000 mask FFFE00000 write-protect
+ TIME: 0.0
+
+OPERATION:   1 base 000000000 mask F80000000 write-back
+ TIME: 0.0
+
+OPERATION:   2 base 080000000 mask FC0000000 write-back
+ TIME: 0.0
+
+OPERATION:   3 base 100000000 mask FC0000000 write-back
+ TIME: 0.0
+
+OPERATION:   4 base 13C000000 mask FFC000000 uncachable
+ TIME: 0.0
+
+OPERATION:   5 base 0B9D70000 mask FFFFF0000 uncachable
+ TIME: 0.0
+
+OPERATION:   6 disabled
+ TIME: 0.0
+
+OPERATION: x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WP  UC- WT  
+ TIME: 0.0
+
+OPERATION: Scanning 1 areas for low memory corruption
+ TIME: 0.0
+
+OPERATION: initial memory mapped: [mem 0x00000000-0x0f3fffff]
+ TIME: 0.0
+
+OPERATION: RAMDISK: [mem 0x30a9b000-0x34544fff]
+ TIME: 0.0
+
+OPERATION: ACPI: Early table checksum verification disabled
+ TIME: 0.0
+
+OPERATION: ACPI: RSDP 0x00000000000F68C0 000024 (v02 HPQOEM)
+ TIME: 0.0
+
+OPERATION: ACPI: XSDT 0x00000000BDFFE120 000084 (v01 HPQOEM SLIC-MPC 0000000F      01000013)
+ TIME: 0.0
+
+OPERATION: ACPI: FACP 0x00000000BDFFC000 0000F4 (v03 HPQOEM 30DC     0000000F HP   00000001)
+ TIME: 0.0
+
+OPERATION: ACPI: DSDT 0x00000000BDFDD000 0194D9 (v01 HPQOEM 30DC     00000001 INTL 20060912)
+ TIME: 0.0
+
+OPERATION: ACPI: FACS 0x00000000BDF9C000 000040
+ TIME: 0.0
+
+OPERATION: ACPI: FACS 0x00000000BDF9C000 000040
+ TIME: 0.0
+
+OPERATION: ACPI: HPET 0x00000000BDFFB000 000038 (v01 HPQOEM 30DC     00000001 HP   00000001)
+ TIME: 0.0
+
+OPERATION: ACPI: APIC 0x00000000BDFFA000 000084 (v01 HPQOEM 30DC     00000001 HP   00000001)
+ TIME: 0.0
+
+OPERATION: ACPI: MCFG 0x00000000BDFF9000 00003C (v01 HPQOEM 30DC     00000001 HP   00000001)
+ TIME: 0.0
+
+OPERATION: ACPI: TCPA 0x00000000BDFF7000 000032 (v02 HPQOEM 30DC     00000000 HP   00000001)
+ TIME: 0.0
+
+OPERATION: ACPI: SSDT 0x00000000BDFDA000 0002DD (v01 HPQOEM SataAhci 00001000 INTL 20060912)
+ TIME: 0.0
+
+OPERATION: ACPI: SLIC 0x00000000BDFD8000 000176 (v01 HPQOEM SLIC-MPC 00000001 HP   00000001)
+ TIME: 0.0
+
+OPERATION: ACPI: DMAR 0x00000000BDFD7000 000098 (v01        ?        00000001      00000000)
+ TIME: 0.0
+
+OPERATION: ACPI: ASF! 0x00000000BDFF8000 000095 (v32 HPQOEM 30DC     00000001 HP   00000001)
+ TIME: 0.0
+
+OPERATION: ACPI: SSDT 0x00000000BDFD6000 00066C (v01 PmRef  CpuPm    00003000 INTL 20060912)
+ TIME: 0.0
+
+OPERATION: ACPI: SSDT 0x00000000BDFD5000 000288 (v01 PmRef  Cpu0Tst  00003000 INTL 20060912)
+ TIME: 0.0
+
+OPERATION: ACPI: SSDT 0x00000000BDFD4000 000225 (v01 PmRef  ApTst    00003000 INTL 20060912)
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving FACP table memory at [mem 0xbdffc000-0xbdffc0f3]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving DSDT table memory at [mem 0xbdfdd000-0xbdff64d8]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving FACS table memory at [mem 0xbdf9c000-0xbdf9c03f]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving FACS table memory at [mem 0xbdf9c000-0xbdf9c03f]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving HPET table memory at [mem 0xbdffb000-0xbdffb037]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving APIC table memory at [mem 0xbdffa000-0xbdffa083]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving MCFG table memory at [mem 0xbdff9000-0xbdff903b]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving TCPA table memory at [mem 0xbdff7000-0xbdff7031]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving SSDT table memory at [mem 0xbdfda000-0xbdfda2dc]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving SLIC table memory at [mem 0xbdfd8000-0xbdfd8175]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving DMAR table memory at [mem 0xbdfd7000-0xbdfd7097]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving ASF! table memory at [mem 0xbdff8000-0xbdff8094]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving SSDT table memory at [mem 0xbdfd6000-0xbdfd666b]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving SSDT table memory at [mem 0xbdfd5000-0xbdfd5287]
+ TIME: 0.0
+
+OPERATION: ACPI: Reserving SSDT table memory at [mem 0xbdfd4000-0xbdfd4224]
+ TIME: 0.0
+
+OPERATION: ACPI: Local APIC address 0xfee00000
+ TIME: 0.0
+
+OPERATION: 4170MB HIGHMEM available.
+ TIME: 0.0
+
+OPERATION: 885MB LOWMEM available.
+ TIME: 0.0
+
+OPERATION:   mapped low ram: 0 - 375fe000
+ TIME: 0.0
+
+OPERATION:   low ram: 0 - 375fe000
+ TIME: 0.0
+
+OPERATION: tsc: Fast TSC calibration using PIT
+ TIME: 0.0
+
+OPERATION: Zone ranges:
+ TIME: 0.0
+
+OPERATION:   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+ TIME: 0.0
+
+OPERATION:   Normal   [mem 0x0000000001000000-0x00000000375fdfff]
+ TIME: 0.0
+
+OPERATION:   HighMem  [mem 0x00000000375fe000-0x000000013bffffff]
+ TIME: 0.0
+
+OPERATION: Movable zone start for each node
+ TIME: 0.0
+
+OPERATION: Early memory node ranges
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x0000000000001000-0x000000000009efff]
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x0000000000100000-0x00000000b8f29fff]
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x00000000b8f2c000-0x00000000b9d6ffff]
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x00000000b9d80000-0x00000000bc49efff]
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x00000000bc69f000-0x00000000bde91fff]
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x00000000bde9a000-0x00000000bdebefff]
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x00000000bdfff000-0x00000000bdffffff]
+ TIME: 0.0
+
+OPERATION:   node   0: [mem 0x0000000100000000-0x000000013bffffff]
+ TIME: 0.0
+
+OPERATION: Reserved but unavailable: 137 pages
+ TIME: 0.0
+
+OPERATION: Initmem setup node 0 [mem 0x0000000000001000-0x000000013bffffff]
+ TIME: 0.0
+
+OPERATION: On node 0 totalpages: 1023044
+ TIME: 0.0
+
+OPERATION:   DMA zone: 40 pages used for memmap
+ TIME: 0.0
+
+OPERATION:   DMA zone: 0 pages reserved
+ TIME: 0.0
+
+OPERATION:   DMA zone: 3998 pages, LIFO batch:0
+ TIME: 0.0
+
+OPERATION:   Normal zone: 2175 pages used for memmap
+ TIME: 0.0
+
+OPERATION:   Normal zone: 222718 pages, LIFO batch:31
+ TIME: 0.0
+
+OPERATION:   HighMem zone: 796328 pages, LIFO batch:31
+ TIME: 0.0
+
+OPERATION: Using APIC driver default
+ TIME: 0.0
+
+OPERATION: ACPI: PM-Timer IO Port: 0x408
+ TIME: 0.0
+
+OPERATION: ACPI: Local APIC address 0xfee00000
+ TIME: 0.0
+
+OPERATION: ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+ TIME: 0.0
+
+OPERATION: ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+ TIME: 0.0
+
+OPERATION: ACPI: LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])
+ TIME: 0.0
+
+OPERATION: ACPI: LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+ TIME: 0.0
+
+OPERATION: IOAPIC[0]: apic_id 1, version 32, address 0xfec00000, GSI 0-23
+ TIME: 0.0
+
+OPERATION: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+ TIME: 0.0
+
+OPERATION: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+ TIME: 0.0
+
+OPERATION: ACPI: IRQ0 used by override.
+ TIME: 0.0
+
+OPERATION: ACPI: IRQ9 used by override.
+ TIME: 0.0
+
+OPERATION: Using ACPI (MADT) for SMP configuration information
+ TIME: 0.0
+
+OPERATION: ACPI: HPET id: 0x8086a201 base: 0xfed00000
+ TIME: 0.0
+
+OPERATION: smpboot: Allowing 4 CPUs, 2 hotplug CPUs
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0x000a0000-0x000eefff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0x000ef000-0x000fffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xb8f2a000-0xb8f2bfff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xb9d70000-0xb9d7ffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xbc49f000-0xbc69efff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xbde92000-0xbde99fff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xbdebf000-0xbdecefff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xbdecf000-0xbdfcefff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xbdfcf000-0xbdffefff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xbe000000-0xbfffffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xc0000000-0xdfffffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xe0000000-0xefffffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xf0000000-0xfebfffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfec00000-0xfec00fff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfec01000-0xfed0ffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfed10000-0xfed13fff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfed14000-0xfed17fff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfed18000-0xfed19fff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfed1a000-0xfed1bfff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfed1c000-0xfed1ffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfed20000-0xfedfffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfee00000-0xfee00fff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xfee01000-0xffe7ffff]
+ TIME: 0.0
+
+OPERATION: PM: Registered nosave memory: [mem 0xffe80000-0xffffffff]
+ TIME: 0.0
+
+OPERATION: e820: [mem 0xc0000000-0xdfffffff] available for PCI devices
+ TIME: 0.0
+
+OPERATION: Booting paravirtualized kernel on bare hardware
+ TIME: 0.0
+
+OPERATION: clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+ TIME: 0.0
+
+OPERATION: setup_percpu: NR_CPUS:8 nr_cpumask_bits:8 nr_cpu_ids:4 nr_node_ids:1
+ TIME: 0.0
+
+OPERATION: percpu: Embedded 29 pages/cpu s89292 r0 d29492 u118784
+ TIME: 0.0
+
+OPERATION: pcpu-alloc: s89292 r0 d29492 u118784 alloc=29*4096
+ TIME: 0.0
+
+OPERATION: pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+ TIME: 0.0
+
+OPERATION: Built 1 zonelists, mobility grouping on.  Total pages: 1020829
+ TIME: 0.0
+
+OPERATION: Kernel command line: BOOT_IMAGE=/vmlinuz-4.15.0-204-generic root=/dev/mapper/56768--vg-root ro
+ TIME: 0.0
+
+OPERATION: Dentry cache hash table entries: 131072 (order: 7, 524288 bytes)
+ TIME: 0.0
+
+OPERATION: Inode-cache hash table entries: 65536 (order: 6, 262144 bytes)
+ TIME: 0.0
+
+OPERATION: microcode: microcode updated early to revision 0xa0b, date = 2010-09-28
+ TIME: 0.0
+
+OPERATION: Initializing CPU#0
+ TIME: 0.0
+
+OPERATION: DMAR: [Firmware Bug]: Your BIOS is broken; DMAR reported at address 0!
+               BIOS vendor: Hewlett-Packard; Ver: 68PCD Ver. F.19; Product Version: F.19
+ TIME: 0.0
+
+OPERATION: Initializing HighMem for node 0 (000375fe:0013c000)
+ TIME: 0.0
+
+OPERATION: Initializing Movable for node 0 (00000000:00000000)
+ TIME: 0.0
+
+OPERATION: Memory: 3907808K/4092176K available (9023K kernel code, 891K rwdata, 3496K rodata, 1132K init, 860K bss, 184368K reserved, 0K cma-reserved, 3185312K highmem)
+ TIME: 0.0
+
+OPERATION: virtual kernel memory layout:
+                   fixmap  : 0xfff14000 - 0xfffff000   ( 940 kB)
+                 cpu_entry : 0xffa00000 - 0xffb39000   (1252 kB)
+                   pkmap   : 0xff600000 - 0xff800000   (2048 kB)
+                   vmalloc : 0xf7dfe000 - 0xff5fe000   ( 120 MB)
+                   lowmem  : 0xc0000000 - 0xf75fe000   ( 885 MB)
+                     .init : 0xced33000 - 0xcee4e000   (1132 kB)
+                     .data : 0xce8cff00 - 0xced1ef80   (4412 kB)
+                     .text : 0xce000000 - 0xce8cff00   (9023 kB)
+ TIME: 0.0
+
+OPERATION: Checking if this processor honours the WP bit even in supervisor mode...Ok.
+ TIME: 0.0
+
+OPERATION: SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+ TIME: 0.0
+
+OPERATION: Kernel/User page tables isolation: enabled
+ TIME: 0.0
+
+OPERATION: ftrace: allocating 38188 entries in 75 pages
+ TIME: 0.0
+
+OPERATION: Hierarchical RCU implementation.
+ TIME: 0.0
+
+OPERATION: 	RCU restricting CPUs from NR_CPUS=8 to nr_cpu_ids=4.
+ TIME: 0.0
+
+OPERATION: 	Tasks RCU enabled.
+ TIME: 0.0
+
+OPERATION: RCU: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=4
+ TIME: 0.0
+
+OPERATION: NR_IRQS: 2304, nr_irqs: 456, preallocated irqs: 16
+ TIME: 0.0
+
+OPERATION: CPU 0 irqstacks, hard=(ptrval) soft=(ptrval)
+ TIME: 0.0
+
+OPERATION: Console: colour dummy device 80x25
+ TIME: 0.0
+
+OPERATION: console [tty0] enabled
+ TIME: 0.0
+
+OPERATION: ACPI: Core revision 20170831
+ TIME: 0.0
+
+OPERATION: ACPI: 5 ACPI AML tables successfully acquired and loaded
+ TIME: 0.0
+
+OPERATION: clocksource: hpet: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 133484882848 ns
+ TIME: 0.0
+
+OPERATION: hpet clockevent registered
+ TIME: 0.0
+
+OPERATION: APIC: Switch to symmetric I/O mode setup
+ TIME: 0.0
+
+OPERATION: Enabling APIC mode:  Flat.  Using 1 I/O APICs
+ TIME: 0.0
+
+OPERATION: ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+ TIME: 0.0
+
+OPERATION: Calibrating delay loop (skipped), value calculated using timer frequency.. 4788.37 BogoMIPS (lpj=9576740)
+ TIME: 0.0
+
+OPERATION: pid_max: default: 32768 minimum: 301
+ TIME: 0.0
+
+OPERATION: Security Framework initialized
+ TIME: 0.0
+
+OPERATION: Yama: becoming mindful.
+ TIME: 0.0
+
+OPERATION: AppArmor: AppArmor initialized
+ TIME: 0.0
+
+OPERATION: Mount-cache hash table entries: 2048 (order: 1, 8192 bytes)
+ TIME: 0.0
+
+OPERATION: Mountpoint-cache hash table entries: 2048 (order: 1, 8192 bytes)
+ TIME: 0.0
+
+OPERATION: Disabled fast string operations
+ TIME: 0.0
+
+OPERATION: process: using mwait in idle threads
+ TIME: 0.0
+
+OPERATION: Last level iTLB entries: 4KB 128, 2MB 4, 4MB 4
+ TIME: 0.0
+
+OPERATION: Last level dTLB entries: 4KB 256, 2MB 0, 4MB 32, 1GB 0
+ TIME: 0.0
+
+OPERATION: Spectre V1 : Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+ TIME: 0.0
+
+OPERATION: Spectre V2 : Mitigation: Retpolines
+ TIME: 0.0
+
+OPERATION: Spectre V2 : Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch
+ TIME: 0.0
+
+OPERATION: Spectre V2 : Spectre v2 / SpectreRSB : Filling RSB on VMEXIT
+ TIME: 0.0
+
+OPERATION: Speculative Store Bypass: Vulnerable
+ TIME: 0.0
+
+OPERATION: MDS: Vulnerable: Clear CPU buffers attempted, no microcode
+ TIME: 0.0
+
+OPERATION: MMIO Stale Data: Unknown: No mitigations
+ TIME: 0.0
+
+OPERATION: Freeing SMP alternatives memory: 36K
+ TIME: 0.0
+
+OPERATION: ... version:                2
+ TIME: 0.0
+
+OPERATION: ... bit width:              40
+ TIME: 0.0
+
+OPERATION: ... generic registers:      2
+ TIME: 0.0
+
+OPERATION: ... value mask:             000000ffffffffff
+ TIME: 0.0
+
+OPERATION: ... max period:             000000007fffffff
+ TIME: 0.0
+
+OPERATION: ... fixed-purpose events:   3
+ TIME: 0.0
+
+OPERATION: ... event mask:             0000000700000003
+ TIME: 0.0
+
+OPERATION: Hierarchical SRCU implementation.
+ TIME: 0.0
+
+OPERATION: NMI watchdog: Enabled. Permanently consumes one hw-PMU counter.
+ TIME: 0.0
+
+OPERATION: smp: Bringing up secondary CPUs ...
+ TIME: 0.0
+
+OPERATION: CPU 1 irqstacks, hard=(ptrval) soft=(ptrval)
+ TIME: 0.0
+
+OPERATION: x86: Booting SMP configuration:
+ TIME: 0.0
+
+OPERATION: .... node  #0, CPUs:      #1
+ TIME: 0.0
+
+OPERATION: Initializing CPU#1
+ TIME: 0
+
+OPERATION: smpboot: Max logical packages: 2
+ TIME: 0.0
+
+OPERATION: smpboot: Total of 2 processors activated (9576.74 BogoMIPS)
+ TIME: 0.0
+
+OPERATION: evm: security.selinux
+ TIME: 0.0
+
+OPERATION: evm: security.SMACK64
+ TIME: 0.0
+
+OPERATION: evm: security.SMACK64EXEC
+ TIME: 0.0
+
+OPERATION: evm: security.SMACK64TRANSMUTE
+ TIME: 0.0
+
+OPERATION: evm: security.SMACK64MMAP
+ TIME: 0.0
+
+OPERATION: evm: security.apparmor
+ TIME: 0.0
+
+OPERATION: evm: security.ima
+ TIME: 0.0
+
+OPERATION: evm: security.capability
+ TIME: 0.0
+
+OPERATION: PM: Registering ACPI NVS region [mem 0xb9d70000-0xb9d7ffff] (65536 bytes)
+ TIME: 0.0
+
+OPERATION: PM: Registering ACPI NVS region [mem 0xbc49f000-0xbc69efff] (2097152 bytes)
+ TIME: 0.0
+
+OPERATION: PM: Registering ACPI NVS region [mem 0xbdecf000-0xbdfcefff] (1048576 bytes)
+ TIME: 0.0
+
+OPERATION: clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+ TIME: 0.0
+
+OPERATION: futex hash table entries: 1024 (order: 4, 65536 bytes)
+ TIME: 0.0
+
+OPERATION: pinctrl core: initialized pinctrl subsystem
+ TIME: 0.0
+
+OPERATION: RTC time:  1:02:58, date: 02/14/23
+ TIME: 0.0
+
+OPERATION: NET: Registered protocol family 16
+ TIME: 0.0
+
+OPERATION: audit: initializing netlink subsys (disabled)
+ TIME: 0.0
+
+OPERATION: audit: type=2000 audit(1676336578.140:1): state=initialized audit_enabled=0 res=1
+ TIME: 0.0
+
+OPERATION: cpuidle: using governor menu
+ TIME: 0.0
+
+OPERATION: ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+ TIME: 0.0
+
+OPERATION: ACPI: bus type PCI registered
+ TIME: 0.0
+
+OPERATION: acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+ TIME: 0.0
+
+OPERATION: PCI: Using MMCONFIG for extended config space
+ TIME: 0.0
+
+OPERATION: PCI: Using configuration type 1 for base access
+ TIME: 0.0
+
+OPERATION: mtrr: your CPUs had inconsistent variable MTRR settings
+ TIME: 0.0
+
+OPERATION: mtrr: probably your BIOS does not setup all CPUs.
+ TIME: 0.0
+
+OPERATION: mtrr: corrected configuration.
+ TIME: 0.0
+
+OPERATION: ACPI: Added _OSI(Module Device)
+ TIME: 0.0
+
+OPERATION: ACPI: Added _OSI(Processor Device)
+ TIME: 0.0
+
+OPERATION: ACPI: Added _OSI(3.0 _SCP Extensions)
+ TIME: 0.0
+
+OPERATION: ACPI: Added _OSI(Processor Aggregator Device)
+ TIME: 0.0
+
+OPERATION: ACPI: Added _OSI(Linux-Dell-Video)
+ TIME: 0.0
+
+OPERATION: ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+ TIME: 0.0
+
+OPERATION: ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+ TIME: 0.0
+
+OPERATION: pci 0000:01:00.0: vgaarb: setting as boot VGA device
+ TIME: 0.0
+
+OPERATION: pci 0000:01:00.0: vgaarb: VGA device added: decodes=io+mem,owns=io+mem,locks=none
+ TIME: 0.0
+
+OPERATION: pci 0000:01:00.0: vgaarb: bridge control possible
+ TIME: 0.0
+
+OPERATION: vgaarb: loaded
+ TIME: 0.0
+
+OPERATION: ACPI: bus type USB registered
+ TIME: 0.0
+
+OPERATION: usbcore: registered new interface driver usbfs
+ TIME: 0.0
+
+OPERATION: usbcore: registered new interface driver hub
+ TIME: 0.0
+
+OPERATION: usbcore: registered new device driver usb
+ TIME: 0.0
+
+OPERATION: EDAC MC: Ver: 3.0.0
+ TIME: 0.0
+
+OPERATION: hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0
+ TIME: 0.0
+
+OPERATION: hpet0: 4 comparators, 64-bit 14.318180 MHz counter
+ TIME: 0.0
+
