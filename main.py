@@ -9,7 +9,7 @@ def dissect_string(filepath):
     with open (filepath) as file:
         data = file.read().strip()
 
-        while find_next_match(data, find_numbers(data).span()[1]):
+        while find_next_match(data, find_numbers(data).span()[1]):              # while there is a next
             match = find_numbers(data)                  
             times.append(float(match.group()[:-1].strip()))                     # add times string to list
             first_ind = match.span()                                            # get indices of match
@@ -21,7 +21,7 @@ def dissect_string(filepath):
 
             data = next
         
-        last_match = find_numbers(data)
+        last_match = find_numbers(data)                                         # add last operation
         times.append(float(last_match.group()[:-1].strip()))
         text.append(data[last_match.span()[1]:])
 
@@ -37,7 +37,7 @@ def find_numbers(string):
     return re.search(r" {3} ?[0-9]+\.[0-9]+]", string)                          # match the timestamp of bootlog
 
 def sort_func(e):
-    return e['elapsed']
+    return e['elapsed']                                                         # sort by elapsed
 
 def get_times(filepath):
     dissect_string(filepath)
