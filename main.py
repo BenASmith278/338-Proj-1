@@ -1,6 +1,5 @@
 import re
 
-log_string = ""
 times = []
 text = []
 ops = []
